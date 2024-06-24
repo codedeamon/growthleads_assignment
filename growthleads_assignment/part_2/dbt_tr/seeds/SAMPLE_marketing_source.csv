@@ -1,0 +1,737 @@
+marketing_source,product,project_xero,country,extra,operator_mapped,promocode,ppc_website,website,market,acq_channel,portfolio
+PPC-CAS-CAN-BAD,Casino,PPC,Canada (EN),Bing,0,0,CanadaCasEn.Bing,PPC,Canada (EN),PPC,PPC
+PPC-CAS-CAN-GAD,Casino,PPC,Canada (EN),Google,0,0,CanadaCasEn.Google,PPC,Canada (EN),PPC,PPC
+PPC-CAS-NOR-BAD,Casino,PPC,Norway,Bing,0,0,NOStake.Bing,PPC,Norway,PPC,PPC
+PPC-CAS-NOR-GAD,Casino,PPC,Norway,Google,0,0,NorwayCasino.Google,PPC,Norway,PPC,PPC
+PPC-SPO-CHE-BAD,Sports Betting,PPC,Switzerland,Bing,0,0,SwitzerlandSpo.Bing,PPC,Switzerland,PPC,PPC
+PPC-SPO-CHE-GAD,Sports Betting,PPC,Switzerland,Google,0,0,SwitzerlandSpo.Google,PPC,Switzerland,PPC,PPC
+AMC-IGA-GLO-CRYPTO,Igaming,AMC,Global,0,0,0,NA,AMC,Global,SEO,SEO
+BNE-CAS-GLO,Casino,BNE,Global,0,0,0,NA,BNE,Global,SEO,SEO
+BNE-SPO-GLO,Sports Betting,BNE,Global,0,0,0,NA,BNE,Global,SEO,SEO
+BST-CAS-GLO-YTPAT,Casino,BST,Global,0,0,0,NA,BST,Global,Social (Youtube),Social
+BST-IGA-GLO-YTPAT,Igaming,BST,Global,0,0,0,NA,BST,Global,Social (Youtube),Social
+BST-IGA-GLO-YTPAT-VIP,Igaming,BST,Global,0,0,0,NA,BST,Global,Social (Youtube),Social
+BST-SPO-GLO-YTPAT,Sports Betting,BST,Global,0,0,0,NA,BST,Global,Social (Youtube),Social
+BTT-CAS-CAN,Casino,BTT,Canada (EN),0,0,0,NA,BTT,Canada (EN),SEO,SEO
+BTT-CAS-CAN-PROMO,Casino,BTT,Canada (EN),0,0,Promocode,NA,BTT,Canada (EN),SEO,SEO
+BTT-IGA-GLO-YTINT,Igaming,BTT,Global,YouTube Intern,0,0,NA,BTT,Global,Social (Youtube),Social
+C13-IGA-GLO,Igaming,C13,Global,YouTube Max,0,0,NA,C13,Global,Social (Youtube),Social
+GGC-CAS-CAN-Leo,Casino,GGC,Canada (EN),0,0,0,NA,GGC,Canada (EN),SEO,SEO
+YTPATFULL,Sports Betting,YTP,USA (Default),0,0,Promocode,NA,YTP,USA (Default),Social (Youtube),Social
+GGC-CAS-USA-YTPAT-Borgata,Casino,GGC,USA (Default),0,Borgata,0,NA,GGC,USA (Default),Social (Youtube),Social
+GBH-SCS-USA-GA,Social Casino,GBH,USA (Georgia),0,0,0,NA,GBH,USA (Georgia),SEO,SEO
+CAPTAINCAS,Casino,CAP,Global,0,0,Promocode,NA,CAP,Global,SEO,SEO
+PFD-SPO-USA-VA-RTY,Sports Betting,PFD,USA (Virginia),Routy,0,0,NA,PFD,USA (Virginia),Social (Organic),Social
+MAX-SCS-USA-PARA,Social Casino,MAX,USA (Default),0,0,0,NA,MAX,USA (Default),SEO (Parasite),SEO
+CTC-CAS-USA-PartyC,Casino,CTC,USA (New Jersey),0,PartyCasino,0,NA,CTC,USA (New Jersey),SEO,SEO
+YTCAS,Casino,YTC,Global,0,0,Promocode,NA,YTC,Global,Social (Youtube),Social
+MEL-CAS-BRA,Casino,MEL,Brazil,0,0,0,NA,MEL,Brazil,SEO,SEO
+GBH-SCS-USA,Social Casino,GBH,USA (Default),0,0,0,NA,GBH,USA (Default),SEO,SEO
+PMG-SCS-USA-SEO,Social Casino,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+PBC-SPO-USA-PBTV,Sports Betting,PBC,USA (Default),YouTube Intern,0,0,NA,PBC,USA (Default),Social (Youtube),Social
+CTC-DFS-USA,Daily Fantasy Sports,CTC,USA (Default),0,0,0,NA,CTC,USA (Default),SEO,SEO
+BNE-SPO-GLO-USA,Sports Betting,BNE,USA (Default),0,0,0,NA,BNE,USA (Default),SEO,SEO
+PMG-DFS-USA-SEO,Daily Fantasy Sports,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+GGC-SPO-USA-YTPAT,Sports Betting,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+TGT-SPO-USA-OH,Sports Betting,TGT,USA (Ohio),0,0,0,NA,TGT,USA (Ohio),SEO,SEO
+CTC-SPO-USA-IL,Sports Betting,CTC,USA (Illinois),0,0,0,NA,CTC,USA (Illinois),SEO,SEO
+PMG-SPO-USA-MI-TWT,Sports Betting,PMG,USA (Michigan),Twitter,0,0,NA,PMG,USA (Michigan),Social (Organic),Social
+TRUTHBONUSFULL,Sports Betting,TRU,USA (Default),0,0,Promocode,NA,TRU,USA (Default),SEO,SEO
+GBH-SCS-USA-CA,Social Casino,GBH,USA (California),0,0,0,NA,GBH,USA (California),SEO,SEO
+STF-SPO-USA-MI,Sports Betting,STF,USA (Michigan),0,0,0,NA,STF,USA (Michigan),SEO,SEO
+PROMOKINGFULL,Sports Betting,PRO,USA (Default),0,0,Promocode,NA,PRO,USA (Default),Social (Organic),Social
+GBH-SPO-USA-IN,Sports Betting,GBH,USA (Indiana),0,0,0,NA,GBH,USA (Indiana),SEO,SEO
+PMG-SPO-USA-SEO,Sports Betting,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+GBH-SCS-USA-TX,Social Casino,GBH,USA (Texas),0,0,0,NA,GBH,USA (Texas),SEO,SEO
+GBH-SPO-USA-PA,Sports Betting,GBH,USA (Pennsylvania),0,0,0,NA,GBH,USA (Pennsylvania),SEO,SEO
+GGC-IGA-USA-YTPAT,Igaming,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+TGT-SPO-USA-PA,Sports Betting,TGT,USA (Pennsylvania),0,0,0,NA,TGT,USA (Pennsylvania),SEO,SEO
+GGC-CAS-USA-YTPAT,Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+GGC-SPO-USA-ESP,Sports Betting,GGC,USA (Default),Spanish,0,0,NA,GGC,USA (Default),SEO,SEO
+ACP-SPO-USA-TWT,Sports Betting,ACP,USA (Default),Analyticscapper,0,0,NA,ACP,USA (Default),Social (Organic),Social
+GBH-SCS-USA-PA,Social Casino,GBH,USA (Pennsylvania),0,0,0,NA,GBH,USA (Pennsylvania),SEO,SEO
+GGC-SCS-USA-YTPAT,Social Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+BNE-SPO-GLO-OH,Sports Betting,BNE,USA (Ohio),0,0,0,NA,BNE,USA (Ohio),SEO,SEO
+WET- SCS-USA-Betrivers,Social Casino,WET,USA (Default),0,0,0,NA,WET,USA (Default),SEO,SEO
+STF-SPO-CAN,Sports Betting,STF,Canada (EN),0,0,0,NA,STF,Canada (EN),SEO,SEO
+PPC-SPO-BRA-BADX,Sports Betting,PPC,Brazil,Bing,0,0,Brasilspo.Bing,PPC,Brazil,PPC,PPC
+PPC-SPO-USA-VA-BAD,Sports Betting,PPC,USA (Virginia),Bing,0,0,USVirginiaSpo.Bing,PPC,USA (Virginia),PPC,PPC
+SUPERTRUTH,Sports Betting,SUP,Global,0,0,Promocode,NA,SUP,Global,SEO,SEO
+GBH-SPO-USA,Sports Betting,GBH,USA (Default),0,0,0,NA,GBH,USA (Default),SEO,SEO
+ODP-SPO-USA,Sports Betting,ODP,USA (Default),0,0,0,NA,ODP,USA (Default),SEO,SEO
+PBC-CAS-USA,Casino,PBC,USA (Default),0,0,0,NA,PBC,USA (Default),SEO,SEO
+STF-SCS-USA,Social Casino,STF,USA (Default),0,0,0,NA,STF,USA (Default),SEO,SEO
+PROMOGUY,Sports Betting,PRO,Global,0,0,Promocode,NA,PRO,Global,Social (Organic),Social
+GGC-SCS-USA-Betrivers.net,Social Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),SEO,SEO
+PPC-SPO-BRA-BAD,Sports Betting,PPC,Brazil,Bing,0,0,Brasilspo.Bing,PPC,Brazil,PPC,PPC
+GBH-DFS-USA-NJ,Daily Fantasy Sports,GBH,USA (New Jersey),0,0,0,NA,GBH,USA (New Jersey),SEO,SEO
+PMG-SPO-USA-PA-TWT,Sports Betting,PMG,USA (Pennsylvania),Twitter,0,0,NA,PMG,USA (Pennsylvania),Social (Organic),Social
+PMG-SPO-USA,Sports Betting,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+PMG-SPO-USA-NJ-TWT,Sports Betting,PMG,USA (New Jersey),Twitter,0,0,NA,PMG,USA (New Jersey),Social (Organic),Social
+GGC-DFS-USA-YTPAT,Daily Fantasy Sports,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+GGC-CAS-USA-ESP,Casino,GGC,USA (Default),Spanish,0,0,NA,GGC,USA (Default),SEO,SEO
+ODP-SPO-USA-BetMGM,Sports Betting,ODP,USA (Default),0,0,0,NA,ODP,USA (Default),SEO,SEO
+PMG-SPO-USA-VA-TWT,Sports Betting,PMG,USA (Virginia),Twitter,0,0,NA,PMG,USA (Virginia),Social (Organic),Social
+CTC-SCS-USA-CA,Social Casino,CTC,USA (California),0,0,0,NA,CTC,USA (California),SEO,SEO
+GBH-SCS-USA-CO,Social Casino,GBH,USA (Colorado),0,0,0,NA,GBH,USA (Colorado),SEO,SEO
+GGC-SCS-USA-TX,Social Casino,GGC,USA (Texas),0,0,0,NA,GGC,USA (Texas),SEO,SEO
+PPC-SPO-USA-AZ-ESP-GAD,Sports Betting,PPC,USA (Arizona),Google,0,0,arizowhspous.Google,PPC,USA (Arizona),PPC,PPC
+BNE-IGA-GLO-YTPAT,Igaming,BNE,Global,0,0,0,NA,BNE,Global,Social (Youtube),Social
+NSC-SCS-USA,Social Casino,NSC,USA (Default),0,0,0,NA,NSC,USA (Default),SEO,SEO
+STF-SPO-USA-VA,Sports Betting,STF,USA (Virginia),0,0,0,NA,STF,USA (Virginia),SEO,SEO
+TGT-SCS-USA,Social Casino,TGT,USA (Default),0,0,0,NA,TGT,USA (Default),SEO,SEO
+PMG-SPO-USA-IL,Sports Betting,PMG,USA (Illinois),0,0,0,NA,PMG,USA (Illinois),SEO,SEO
+SPC-SCS-GLO,Social Casino,SPC,Global,0,0,0,NA,SPC,Global,SEO,SEO
+WET-CAS-USA-NJ,Casino,WET,USA (New Jersey),0,0,0,NA,WET,USA (New Jersey),SEO,SEO
+GGC-DFS-USA,Daily Fantasy Sports,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),SEO,SEO
+GBH-CAS-USA-PA,Casino,GBH,USA (Pennsylvania),0,0,0,NA,GBH,USA (Pennsylvania),SEO,SEO
+GGC-CAS-USA-NJ,Casino,GGC,USA (New Jersey),0,0,0,NA,GGC,USA (New Jersey),SEO,SEO
+CTC-SCS-USA-NY,Social Casino,CTC,USA (New York),0,0,0,NA,CTC,USA (New York),SEO,SEO
+WET-CAS-USA-Borgata,Casino,WET,USA (Default),0,Borgata,0,NA,WET,USA (Default),SEO,SEO
+GBH-SPO-USA-MI,Sports Betting,GBH,USA (Michigan),0,0,0,NA,GBH,USA (Michigan),SEO,SEO
+GGC-SPO-USA-MD-YTPAT,Sports Betting,GGC,USA (Maryland),0,0,0,NA,GGC,USA (Maryland),Social (Youtube),Social
+WET-SCS-USA-CO,Social Casino,WET,USA (Colorado),0,0,0,NA,WET,USA (Colorado),SEO,SEO
+GGC-SPO-USA-OH-YTPAT,Sports Betting,GGC,USA (Ohio),0,0,0,NA,GGC,USA (Ohio),Social (Youtube),Social
+PPC-CAS-BRA-BAD,Casino,PPC,Brazil,Bing,0,0,Brasilcas.Bing,PPC,Brazil,PPC,PPC
+GEN-SCS-USA-Betrivers.net,Social Casino,GEN,USA (Default),0,0,0,NA,GEN,USA (Default),SEO,SEO
+PPC-SPO-BRA-BAD_http://ppcdeals.com_CRP 30% + CPA $40,Sports Betting,PPC,Brazil,Bing,0,0,Brasilspo.Bing,PPC,Brazil,PPC,PPC
+PBC-SCS-USA,Social Casino,PBC,USA (Default),0,0,0,NA,PBC,USA (Default),SEO,SEO
+CTC-SCS-USA,Social Casino,CTC,USA (Default),0,0,0,NA,CTC,USA (Default),SEO,SEO
+TGT-SPO-USA-YTINT,Sports Betting,TGT,USA (Default),YouTube Intern,0,0,NA,TGT,USA (Default),Social (Youtube),Social
+PMG-SPO-USA-NY-TWT,Sports Betting,PMG,USA (New York),Twitter,0,0,NA,PMG,USA (New York),Social (Organic),Social
+PMG-SPO-USA-TWT,Sports Betting,PMG,USA (Default),Twitter,0,0,NA,PMG,USA (Default),Social (Organic),Social
+GBH-CAS-USA-Borgata,Casino,GBH,USA (Default),0,Borgata,0,NA,GBH,USA (Default),SEO,SEO
+WET-SPO-USA,Sports Betting,WET,USA (Default),0,0,0,NA,WET,USA (Default),SEO,SEO
+GBH-CAS-USA,Casino,GBH,USA (Default),0,0,0,NA,GBH,USA (Default),SEO,SEO
+PMG-CAS-USA-TWT,Casino,PMG,USA (Default),Twitter,0,0,NA,PMG,USA (Default),Social (Organic),Social
+GGC-CAS-USA-MI,Casino,GGC,USA (Michigan),0,0,0,NA,GGC,USA (Michigan),SEO,SEO
+PPC-SPO-CLE-GAD,Sports Betting,PPC,Chile,Google,0,0,Chilespo.Google,PPC,Chile,PPC,PPC
+WET-SPO-USA-NY,Sports Betting,WET,USA (New York),0,0,0,NA,WET,USA (New York),SEO,SEO
+TGT-SPO-USA,Sports Betting,TGT,USA (Default),0,0,0,NA,TGT,USA (Default),SEO,SEO
+PMG-SPO-USA-PA-SEO,Sports Betting,PMG,USA (Pennsylvania),0,0,0,NA,PMG,USA (Pennsylvania),SEO,SEO
+GGC-SPO-CAN-ON,Sports Betting,GGC,Canada (Ontario),0,0,0,NA,GGC,Canada (Ontario),SEO,SEO
+TGT-SCS-USA-YTPLAY,Social Casino,TGT,USA (Default),TGT Play,0,0,NA,TGT,USA (Default),Social (Youtube),Social
+GBH-SPO-USA-NJ,Sports Betting,GBH,USA (New Jersey),0,0,0,NA,GBH,USA (New Jersey),SEO,SEO
+GBH-SCS-USA-IL,Social Casino,GBH,USA (Illinois),0,0,0,NA,GBH,USA (Illinois),SEO,SEO
+PMG-CAS-USA,Casino,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+GAMBXONTC100,Sports Betting,GAM,Canada (Ontario),0,0,Promocode,NA,GAM,Canada (Ontario),SEO,SEO
+PBC-CAS-USA-NJ-PBTV,Casino,PBC,USA (New Jersey),YouTube Intern,0,0,NA,PBC,USA (New Jersey),Social (Youtube),Social
+TGT-CAS-USA-YTINT,Casino,TGT,USA (Default),YouTube Intern,0,0,NA,TGT,USA (Default),Social (Youtube),Social
+TGT-SPO-USA-MI,Sports Betting,TGT,USA (Michigan),0,0,0,NA,TGT,USA (Michigan),SEO,SEO
+STF-SPO-GLO-MI,Sports Betting,STF,USA (Michigan),0,0,0,NA,STF,USA (Michigan),SEO,SEO
+TGT-DFS-USA,Daily Fantasy Sports,TGT,USA (Default),0,0,0,NA,TGT,USA (Default),SEO,SEO
+PPC-SPO-USA-AZ-GAD-BNE,Sports Betting,PPC,USA (Arizona),Google,0,0,arizowhspous.Google,PPC,USA (Arizona),PPC,PPC
+PPC-SPO-BRA-GAD,Sports Betting,PPC,Brazil,Google,0,0,Brasilspo.Google,PPC,Brazil,PPC,PPC
+EOC-CAS-PER,Casino,EOC,Peru,0,0,0,NA,EOC,Peru,SEO,SEO
+GGC-SPO-USA-MD,Sports Betting,GGC,USA (Maryland),0,0,0,NA,GGC,USA (Maryland),SEO,SEO
+VPD-CAS-USA-YTINT,Casino,VPD,USA (Default),YouTube Intern,0,0,NA,VPD,USA (Default),Social (Youtube),Social
+WET-SPO-USA-PA-BetMGM,Sports Betting,WET,USA (Pennsylvania),0,0,0,NA,WET,USA (Pennsylvania),SEO,SEO
+BNE-IGA-USA-YTPAT,Igaming,BNE,USA (Default),0,0,0,NA,BNE,USA (Default),Social (Youtube),Social
+PBC-CAS-USA-MI-BetMGM,Casino,PBC,USA (Michigan),0,0,0,NA,PBC,USA (Michigan),SEO,SEO
+STF-SPO-USA-IN,Sports Betting,STF,USA (Indiana),0,0,0,NA,STF,USA (Indiana),SEO,SEO
+GBH-SCS-USA-VA,Social Casino,GBH,USA (Virginia),0,0,0,NA,GBH,USA (Virginia),SEO,SEO
+CTC-SCS-USA-MI,Social Casino,CTC,USA (Michigan),0,0,0,NA,CTC,USA (Michigan),SEO,SEO
+WET-CAS-USA,Casino,WET,USA (Default),0,0,0,NA,WET,USA (Default),SEO,SEO
+GGC-IGA-GLO-YTPAT,Igaming,GGC,Global,0,0,0,NA,GGC,Global,Social (Youtube),Social
+GGC-SCS-USA-IL,Social Casino,GGC,USA (Illinois),0,0,0,NA,GGC,USA (Illinois),SEO,SEO
+TGT-SCS-USA-YTINT,Social Casino,TGT,USA (Default),YouTube Intern,0,0,NA,TGT,USA (Default),Social (Youtube),Social
+STF-CAS-USA,Casino,STF,USA (Default),0,0,0,NA,STF,USA (Default),SEO,SEO
+GGC-SPO-USA-CO,Sports Betting,GGC,USA (Colorado),0,0,0,NA,GGC,USA (Colorado),SEO,SEO
+GBH-CAS-USA-MI,Casino,GBH,USA (Michigan),0,0,0,NA,GBH,USA (Michigan),SEO,SEO
+TGT-SPO-USA-NY,Sports Betting,TGT,USA (New York),0,0,0,NA,TGT,USA (New York),SEO,SEO
+PPC-SPO-USA-CO-GAD-Betrivers,Sports Betting,PPC,USA (Colorado),Google,0,0,USColoradoSpo.Google,PPC,USA (Colorado),PPC,PPC
+GGC-SCS-USA-NC,Social Casino,GGC,USA (North Carolina),0,0,0,NA,GGC,USA (North Carolina),SEO,SEO
+STF-CAS-USA-PA,Casino,STF,USA (Pennsylvania),0,0,0,NA,STF,USA (Pennsylvania),SEO,SEO
+PPC-SPO-USA-NY-ESP,Sports Betting,PPC,USA (New York),0,0,0,NYesp.Google,PPC,USA (New York),PPC,PPC
+BUK-CAS-USA-NJ-Sugar,Casino,BUK,USA (New Jersey),0,0,0,NA,BUK,USA (New Jersey),SEO,SEO
+TGT-CAS-USA-MI,Casino,TGT,USA (Michigan),0,0,0,NA,TGT,USA (Michigan),SEO,SEO
+PBC-SPO-USA-YTINT,Sports Betting,PBC,USA (Default),YouTube Intern,0,0,NA,PBC,USA (Default),Social (Youtube),Social
+GBH-SPO-USA-NY,Sports Betting,GBH,USA (New York),0,0,0,NA,GBH,USA (New York),SEO,SEO
+PROMOGUY21,Sports Betting,PRO,USA (Default),0,0,Promocode,NA,PRO,USA (Default),Social (Organic),Social
+TGT-CAS-USA,Casino,TGT,USA (Default),0,0,0,NA,TGT,USA (Default),SEO,SEO
+GGC-CAS-USA-ON-YTPAT,Casino,GGC,Canada (Ontario),0,0,0,NA,GGC,Canada (Ontario),Social (Youtube),Social
+PMG-SPO-USA-MI-RED,Sports Betting,PMG,USA (Michigan),Reddit,0,0,NA,PMG,USA (Michigan),Social (Organic),Social
+STF-SPO-USA,Sports Betting,STF,USA (Default),0,0,0,NA,STF,USA (Default),SEO,SEO
+GGC-CAS-BRA,Casino,GGC,Brazil,0,0,0,NA,GGC,Brazil,SEO,SEO
+PMG-SPO-USA-PA-RED,Sports Betting,PMG,USA (Pennsylvania),Reddit,0,0,NA,PMG,USA (Pennsylvania),Social (Organic),Social
+CAPBONUSMGM,Casino,CAP,USA (Default),0,0,Promocode,NA,CAP,USA (Default),SEO,SEO
+GBH-SCS-USA-IA,Social Casino,GBH,USA (Iowa),0,0,0,NA,GBH,USA (Iowa),SEO,SEO
+GGC-CAS-USA-ESP-PartyC,Casino,GGC,USA (Default),0,PartyCasino,0,NA,GGC,USA (Default),SEO,SEO
+GBH-CAS-USA-NJ-TWT-PartyC,Casino,GBH,USA (New Jersey),Twitter,0,0,NA,GBH,USA (New Jersey),Social (Organic),Social
+GGC-CAS-USA-YTPAT - Casino,Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+STF-CAS-CAN-ON,Casino,STF,Canada (Ontario),0,0,0,NA,STF,Canada (Ontario),SEO,SEO
+PPC campaign SBK 2,Sports Betting,PPC,USA (Default),0,0,0,NYesp.Google,PPC,USA (Default),PPC,PPC
+PFD-SPO-USA-MI-RTY,Sports Betting,PFD,USA (Michigan),Routy,0,0,NA,PFD,USA (Michigan),Social (Organic),Social
+GBH-SCS-USA-FL,Social Casino,GBH,USA (Florida),0,0,0,NA,GBH,USA (Florida),SEO,SEO
+TGT-SPO-USA-NJ,Sports Betting,TGT,USA (New Jersey),0,0,0,NA,TGT,USA (New Jersey),SEO,SEO
+GBH-SCS-USA-AZ,Social Casino,GBH,USA (Arizona),0,0,0,NA,GBH,USA (Arizona),SEO,SEO
+CAPPERFULL,Sports Betting,CAP,USA (Default),Analyticscapper,0,Promocode,NA,CAP,USA (Default),Social (Organic),Social
+GGC-CAS-USA,Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),SEO,SEO
+BUK-SPO-USA-NJ,Sports Betting,BUK,USA (New Jersey),0,0,0,NA,BUK,USA (New Jersey),SEO,SEO
+GBH-DFS-USA-LA - SBK,Daily Fantasy Sports,GBH,USA (Louisiana),0,0,0,NA,GBH,USA (Louisiana),SEO,SEO
+CTC-SCS-USA-PA,Social Casino,CTC,USA (Pennsylvania),0,0,0,NA,CTC,USA (Pennsylvania),SEO,SEO
+GGC-CAS-USA-ESP-Sugar,Casino,GGC,USA (Default),Spanish,0,0,NA,GGC,USA (Default),SEO,SEO
+BNE-CAS-USA-YTPAT-Betriver,Casino,BNE,USA (Default),0,0,0,NA,BNE,USA (Default),Social (Youtube),Social
+PBC-SPO-USA,Sports Betting,PBC,USA (Default),0,0,0,NA,PBC,USA (Default),SEO,SEO
+CTC-CAS-USA-NJ,Casino,CTC,USA (New Jersey),0,0,0,NA,CTC,USA (New Jersey),SEO,SEO
+PMG-SPO-USA-VA-SEO,Sports Betting,PMG,USA (Virginia),0,0,0,NA,PMG,USA (Virginia),SEO,SEO
+PMG-SPO-USA-IL-SEO,Sports Betting,PMG,USA (Illinois),0,0,0,NA,PMG,USA (Illinois),SEO,SEO
+PMG-SPO-USA-CO-TWT,Sports Betting,PMG,USA (Colorado),Twitter,0,0,NA,PMG,USA (Colorado),Social (Organic),Social
+CTC-SPO-USA,Sports Betting,CTC,USA (Default),0,0,0,NA,CTC,USA (Default),SEO,SEO
+PMG-SPO-USA-AZ-TWT,Sports Betting,PMG,USA (Arizona),Twitter,0,0,NA,PMG,USA (Arizona),Social (Organic),Social
+WET-SPO-USA-PA,Sports Betting,WET,USA (Pennsylvania),0,0,0,NA,WET,USA (Pennsylvania),SEO,SEO
+PMG-SPO-USA-LA-SEO,Sports Betting,PMG,USA (Louisiana),0,0,0,NA,PMG,USA (Louisiana),SEO,SEO
+TGT-SPO-USA-MD,Sports Betting,TGT,USA (Maryland),0,0,0,NA,TGT,USA (Maryland),SEO,SEO
+WET-CAS-USA-PA,Casino,WET,USA (Pennsylvania),0,0,0,NA,WET,USA (Pennsylvania),SEO,SEO
+BUK-CAS-USA-PA,Casino,BUK,USA (Pennsylvania),0,0,0,NA,BUK,USA (Pennsylvania),SEO,SEO
+BUK-SPO-USA-IL,Sports Betting,BUK,USA (Illinois),0,0,0,NA,BUK,USA (Illinois),SEO,SEO
+PMG-SPO-USA-MI,Sports Betting,PMG,USA (Michigan),0,0,0,NA,PMG,USA (Michigan),SEO,SEO
+GGC-SPO-USA-NY,Sports Betting,GGC,USA (New York),0,0,0,NA,GGC,USA (New York),SEO,SEO
+GBH-SPO-USA-LA,Sports Betting,GBH,USA (Louisiana),0,0,0,NA,GBH,USA (Louisiana),SEO,SEO
+GEN-IGA-GLO,Igaming,GEN,Global,0,0,0,NA,GEN,Global,SEO,SEO
+PPC-SPO-BRA-BAD-Amuleto,Sports Betting,PPC,Brazil,Bing,AmuletoBet,0,Brasilspo.Bing,PPC,Brazil,PPC,PPC
+CTC-CAS-USA-PA-BetMGM,Casino,CTC,USA (Pennsylvania),0,0,0,NA,CTC,USA (Pennsylvania),SEO,SEO
+TGT-CAS-USA-PA,Casino,TGT,USA (Pennsylvania),0,0,0,NA,TGT,USA (Pennsylvania),SEO,SEO
+CTC-CAS-USA-MI,Casino,CTC,USA (Michigan),0,0,0,NA,CTC,USA (Michigan),SEO,SEO
+WET-CAS-USA-NJ-PartyC,Casino,WET,USA (New Jersey),0,0,0,NA,WET,USA (New Jersey),SEO,SEO
+MIK-SCS-USA-PARA,Social Casino,MIK,USA (Default),0,0,0,NA,MIK,USA (Default),SEO (Parasite),SEO
+ERK-SCS-USA-PARA,Social Casino,ERK,USA (Default),Erik Schmidt,0,0,NA,ERK,USA (Default),SEO (Parasite),SEO
+PMG-SPO-USA-CO,Sports Betting,PMG,USA (Colorado),0,0,0,NA,PMG,USA (Colorado),SEO,SEO
+LVHTCAS,Casino,LVH,Global,0,0,Promocode,NA,LVH,Global,SEO,SEO
+PMG-SPO-USA-RED,Sports Betting,PMG,USA (Default),Reddit,0,0,NA,PMG,USA (Default),Social (Organic),Social
+PBC-SCS-USA-CO,Social Casino,PBC,USA (Colorado),0,0,0,NA,PBC,USA (Colorado),SEO,SEO
+STF-SPO-GLO-USA,Sports Betting,STF,USA (Default),0,0,0,NA,STF,USA (Default),SEO,SEO
+PPC-CANFR-SPO-GAD,Sports Betting,PPC,Canada (EN),Google,0,0,CanadaSportFR.Google,PPC,Canada (EN),PPC,PPC
+GBH-SCS-USA-NC,Social Casino,GBH,USA (North Carolina),0,0,0,NA,GBH,USA (North Carolina),SEO,SEO
+PMG-SCS-USA,Social Casino,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+BUK-CAS-USA-NJ,Casino,BUK,USA (New Jersey),0,0,0,NA,BUK,USA (New Jersey),SEO,SEO
+CTC-CAS-USA-NJ-Sugarhouse,Casino,CTC,USA (New Jersey),0,0,0,NA,CTC,USA (New Jersey),SEO,SEO
+GBH-CAS-USA-NJ,Casino,GBH,USA (New Jersey),0,0,0,NA,GBH,USA (New Jersey),SEO,SEO
+TGT-SPO-USA-IL,Sports Betting,TGT,USA (Illinois),0,0,0,NA,TGT,USA (Illinois),SEO,SEO
+CTC-SCS-USA-VA,Social Casino,CTC,USA (Virginia),0,0,0,NA,CTC,USA (Virginia),SEO,SEO
+PBC-CAS-USA-NJ,Casino,PBC,USA (New Jersey),0,0,0,NA,PBC,USA (New Jersey),SEO,SEO
+BUK-SPO-USA-NJ-Sugar,Sports Betting,BUK,USA (New Jersey),0,0,0,NA,BUK,USA (New Jersey),SEO,SEO
+PMG-SPO-USA-TN-TWT,Sports Betting,PMG,USA (Tennessee),Twitter,0,0,NA,PMG,USA (Tennessee),Social (Organic),Social
+PPC-SPO-USA-CO-GAD,Sports Betting,PPC,USA (Colorado),Google,0,0,USColoradoSpo.Google,PPC,USA (Colorado),PPC,PPC
+PROMOVIDS15,Sports Betting,PRO,Global,YouTube Intern,0,Promocode,NA,PRO,Global,Social (Youtube),Social
+WET-SPO-USA-TN-BetMGM,Sports Betting,WET,USA (Tennessee),0,0,0,NA,WET,USA (Tennessee),SEO,SEO
+PMG-SPO-USA-NJ,Sports Betting,PMG,USA (New Jersey),0,0,0,NA,PMG,USA (New Jersey),SEO,SEO
+STF-SPO-CAN-ON,Sports Betting,STF,Canada (Ontario),0,0,0,NA,STF,Canada (Ontario),SEO,SEO
+WET-SCS-USA-IA,Social Casino,WET,USA (Iowa),0,0,0,NA,WET,USA (Iowa),SEO,SEO
+PPC-CAS-USA-PA-BAD,Casino,PPC,USA (Pennsylvania),Bing,0,0,USPennsylvaniaCas.Bing,PPC,USA (Pennsylvania),PPC,PPC
+GBH-SCS-USA-IN,Social Casino,GBH,USA (Indiana),0,0,0,NA,GBH,USA (Indiana),SEO,SEO
+GBH-SCS-USA-NJ,Social Casino,GBH,USA (New Jersey),0,0,0,NA,GBH,USA (New Jersey),SEO,SEO
+GBH-SCS-USA-MI,Social Casino,GBH,USA (Michigan),0,0,0,NA,GBH,USA (Michigan),SEO,SEO
+WET-SCS-USA-IL,Social Casino,WET,USA (Illinois),0,0,0,NA,WET,USA (Illinois),SEO,SEO
+PMG-SPO-USA-YVIDEO,Sports Betting,PMG,USA (Default),YouTube Intern,0,0,NA,PMG,USA (Default),Social (Youtube),Social
+GGC-SCS-USA-CA,Social Casino,GGC,USA (California),0,0,0,NA,GGC,USA (California),SEO,SEO
+GGC-CAS-USA-YTPAT-Sugar,Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+USXBONUSFULL,Sports Betting,USX,USA (Default),0,0,Promocode,NA,USX,USA (Default),SEO,SEO
+GGC-SCS-USA-FL,Social Casino,GGC,USA (Florida),0,0,0,NA,GGC,USA (Florida),SEO,SEO
+WET-SCS-USA-VA,Social Casino,WET,USA (Virginia),0,0,0,NA,WET,USA (Virginia),SEO,SEO
+GGC-SCS-USA-CO,Social Casino,GGC,USA (Colorado),0,0,0,NA,GGC,USA (Colorado),SEO,SEO
+BNE-SPO-USA,Sports Betting,BNE,USA (Default),0,0,0,NA,BNE,USA (Default),SEO,SEO
+CAPBONUSXMGM,Igaming,CAP,USA (Default),0,0,0,NA,CAP,USA (Default),SEO,SEO
+BUK-SPO-USA-IN,Sports Betting,BUK,USA (Indiana),0,0,0,NA,BUK,USA (Indiana),SEO,SEO
+PMG-SPO-USA-IL-TWT,Sports Betting,PMG,USA (Illinois),Twitter,0,0,NA,PMG,USA (Illinois),Social (Organic),Social
+HBC-SPO-USA-AZ,Sports Betting,HBC,USA (Arizona),0,0,0,NA,HBC,USA (Arizona),SEO,SEO
+PGC-DFS-USA-CA,Daily Fantasy Sports,PGC,USA (California),0,0,0,NA,PGC,USA (California),Social (Organic),Social
+PMG-SPO-USA-TN-SEO,Sports Betting,PMG,USA (Tennessee),0,0,0,NA,PMG,USA (Tennessee),SEO,SEO
+BNE-SPO-USA-VA,Sports Betting,BNE,USA (Virginia),0,0,0,NA,BNE,USA (Virginia),SEO,SEO
+PMG-SPO-USA-AZ-SEO,Sports Betting,PMG,USA (Arizona),0,0,0,NA,PMG,USA (Arizona),SEO,SEO
+STF-SPO-USA-IL,Sports Betting,STF,USA (Illinois),0,0,0,NA,STF,USA (Illinois),SEO,SEO
+GBH-DFS-USA-IA,Daily Fantasy Sports,GBH,USA (Iowa),0,0,0,NA,GBH,USA (Iowa),SEO,SEO
+BTT-SPO-USA-CO,Sports Betting,BTT,USA (Colorado),0,0,0,NA,BTT,USA (Colorado),SEO,SEO
+PMG-SPO-USA-MD-SEO,Sports Betting,PMG,USA (Maryland),0,0,0,NA,PMG,USA (Maryland),SEO,SEO
+BNE-SPO-USA-NY,Sports Betting,BNE,USA (New York),0,0,0,NA,BNE,USA (New York),SEO,SEO
+WET-CAS-DEU-Leo,Casino,WET,Germany,0,LeoVegas,0,NA,WET,Germany,SEO,SEO
+PMG-SPO-USA-MD-TWT,Sports Betting,PMG,USA (Maryland),Twitter,0,0,NA,PMG,USA (Maryland),Social (Organic),Social
+GEN-CAS-GLO,Casino,GEN,Global,0,0,0,NA,GEN,Global,SEO,SEO
+PFD-SPO-USA-RTY,Sports Betting,PFD,USA (Default),Routy,0,0,NA,PFD,USA (Default),Social (Organic),Social
+CTC-CAS-USA,Casino,CTC,USA (Default),0,0,0,NA,CTC,USA (Default),SEO,SEO
+BNE-SPO-GLO-IL-YTPAT,Sports Betting,BNE,USA (Illinois),0,0,0,NA,BNE,USA (Illinois),Social (Youtube),Social
+PMG-SPO-USA-OH-TWT,Sports Betting,PMG,USA (Ohio),Twitter,0,0,NA,PMG,USA (Ohio),Social (Organic),Social
+PBC-CAS-USA-YTINT,Casino,PBC,USA (Default),YouTube Intern,0,0,NA,PBC,USA (Default),Social (Youtube),Social
+USX-SPO-USA-IN,Sports Betting,USX,USA (Indiana),0,0,0,NA,USX,USA (Indiana),SEO,SEO
+PBC-SPO-USA-IN,Sports Betting,PBC,USA (Indiana),0,0,0,NA,PBC,USA (Indiana),SEO,SEO
+BTT-SPO-USA-TN,Sports Betting,BTT,USA (Tennessee),0,0,0,NA,BTT,USA (Tennessee),SEO,SEO
+BTT-SPO-USA-PA,Sports Betting,BTT,USA (Pennsylvania),0,0,0,NA,BTT,USA (Pennsylvania),SEO,SEO
+BNE-SPO-USA-MI,Sports Betting,BNE,USA (Michigan),0,0,0,NA,BNE,USA (Michigan),SEO,SEO
+WET-DFS-USA-PA,Daily Fantasy Sports,WET,USA (Pennsylvania),0,0,0,NA,WET,USA (Pennsylvania),SEO,SEO
+WET-DFS-USA-IA,Daily Fantasy Sports,WET,USA (Iowa),0,0,0,NA,WET,USA (Iowa),SEO,SEO
+WET-SPO-USA-AZ,Sports Betting,WET,USA (Arizona),0,0,0,NA,WET,USA (Arizona),SEO,SEO
+CTC-SPO-USA-TN,Sports Betting,CTC,USA (Tennessee),0,0,0,NA,CTC,USA (Tennessee),SEO,SEO
+WET-SPO-USA-VA,Sports Betting,WET,USA (Virginia),0,0,0,NA,WET,USA (Virginia),SEO,SEO
+WET-SPO-USA-IN,Sports Betting,WET,USA (Indiana),0,0,0,NA,WET,USA (Indiana),SEO,SEO
+HBC-SPO-USA-IN,Sports Betting,HBC,USA (Indiana),0,0,0,NA,HBC,USA (Indiana),SEO,SEO
+HBC-SPO-USA-PA,Sports Betting,HBC,USA (Pennsylvania),0,0,0,NA,HBC,USA (Pennsylvania),SEO,SEO
+CTC-SPO-USA-NJ,Sports Betting,CTC,USA (New Jersey),0,0,0,NA,CTC,USA (New Jersey),SEO,SEO
+CTC-SPO-USA-IN,Sports Betting,CTC,USA (Indiana),0,0,0,NA,CTC,USA (Indiana),SEO,SEO
+GGC-SPO-USA-MI,Sports Betting,GGC,USA (Michigan),0,0,0,NA,GGC,USA (Michigan),SEO,SEO
+HBC-SPO-USA-CO,Sports Betting,HBC,USA (Colorado),0,0,0,NA,HBC,USA (Colorado),SEO,SEO
+BNE-SPO-USA-TN,Sports Betting,BNE,USA (Tennessee),0,0,0,NA,BNE,USA (Tennessee),SEO,SEO
+STF-SPO-USA-IA,Sports Betting,STF,USA (Iowa),0,0,0,NA,STF,USA (Iowa),SEO,SEO
+BNE-SPO-USA-CO,Sports Betting,BNE,USA (Colorado),0,0,0,NA,BNE,USA (Colorado),SEO,SEO
+STF-SPO-USA-NJ,Sports Betting,STF,USA (New Jersey),0,0,0,NA,STF,USA (New Jersey),SEO,SEO
+BTT-SPO-USA-NJ,Sports Betting,BTT,USA (New Jersey),0,0,0,NA,BTT,USA (New Jersey),SEO,SEO
+GGC-SPO-USA-VA,Sports Betting,GGC,USA (Virginia),0,0,0,NA,GGC,USA (Virginia),SEO,SEO
+GGC-SPO-USA-TN,Sports Betting,GGC,USA (Tennessee),0,0,0,NA,GGC,USA (Tennessee),SEO,SEO
+GGC-SPO-USA-NJ,Sports Betting,GGC,USA (New Jersey),0,0,0,NA,GGC,USA (New Jersey),SEO,SEO
+GGC-SPO-USA-AZ,Sports Betting,GGC,USA (Arizona),0,0,0,NA,GGC,USA (Arizona),SEO,SEO
+HBC-SPO-USA-TN,Sports Betting,HBC,USA (Tennessee),0,0,0,NA,HBC,USA (Tennessee),SEO,SEO
+GBH-DFS-USA-TN,Daily Fantasy Sports,GBH,USA (Tennessee),0,0,0,NA,GBH,USA (Tennessee),SEO,SEO
+STF-SPO-USA-PA,Sports Betting,STF,USA (Pennsylvania),0,0,0,NA,STF,USA (Pennsylvania),SEO,SEO
+BUK-SPO-USA-TN,Sports Betting,BUK,USA (Tennessee),0,0,0,NA,BUK,USA (Tennessee),SEO,SEO
+GGC-SPO-USA-PA,Sports Betting,GGC,USA (Pennsylvania),0,0,0,NA,GGC,USA (Pennsylvania),SEO,SEO
+BUK-CAS-USA-MI,Casino,BUK,USA (Michigan),0,0,0,NA,BUK,USA (Michigan),SEO,SEO
+BUK-SPO-USA-CO,Sports Betting,BUK,USA (Colorado),0,0,0,NA,BUK,USA (Colorado),SEO,SEO
+WET-SPO-USA-CO,Sports Betting,WET,USA (Colorado),0,0,0,NA,WET,USA (Colorado),SEO,SEO
+BTT-DFS-USA,Daily Fantasy Sports,BTT,USA (Default),0,0,0,NA,BTT,USA (Default),SEO,SEO
+WET-DFS-USA-NJ,Daily Fantasy Sports,WET,USA (New Jersey),0,0,0,NA,WET,USA (New Jersey),SEO,SEO
+GGC-CAS-USA-PA,Casino,GGC,USA (Pennsylvania),0,0,0,NA,GGC,USA (Pennsylvania),SEO,SEO
+GBH-DFS-USA-MI,Daily Fantasy Sports,GBH,USA (Michigan),0,0,0,NA,GBH,USA (Michigan),SEO,SEO
+USX-SPO-USA-NJ,Sports Betting,USX,USA (New Jersey),0,0,0,NA,USX,USA (New Jersey),SEO,SEO
+PBC-SPO-USA-NJ,Sports Betting,PBC,USA (New Jersey),0,0,0,NA,PBC,USA (New Jersey),SEO,SEO
+PMG-SPO-USA-VA,Sports Betting,PMG,USA (Virginia),0,0,0,NA,PMG,USA (Virginia),SEO,SEO
+MEL-CAS-BRA-Amuleto,Casino,MEL,Brazil,0,AmuletoBet,0,NA,MEL,Brazil,SEO,SEO
+WET-SPO-IND-Purewin,Sports Betting,WET,India,0,PureWin,0,NA,WET,India,SEO,SEO
+GGC-SPO-USA-IL-YTPAT,Sports Betting,GGC,USA (Illinois),0,0,0,NA,GGC,USA (Illinois),Social (Youtube),Social
+PMG-CAS-USA-PA-SEO-Borgata,Casino,PMG,USA (Pennsylvania),0,Borgata,0,NA,PMG,USA (Pennsylvania),SEO,SEO
+CTC-CAS-USA-BetMGM,Casino,CTC,USA (Default),0,0,0,NA,CTC,USA (Default),SEO,SEO
+GGC-SPO-USA-IN,Sports Betting,GGC,USA (Indiana),0,0,0,NA,GGC,USA (Indiana),SEO,SEO
+PPC-CAS-USA-MI-GAD,Casino,PPC,USA (Michigan),Google,0,0,USMichiganCas.Google,PPC,USA (Michigan),PPC,PPC
+GGC-SCS-USA-NY,Social Casino,GGC,USA (New York),0,0,0,NA,GGC,USA (New York),SEO,SEO
+GBH-SCS-USA-NY,Social Casino,GBH,USA (New York),0,0,0,NA,GBH,USA (New York),SEO,SEO
+USX-SCS-USA,Social Casino,USX,USA (Default),0,0,0,NA,USX,USA (Default),SEO,SEO
+HBC-SPO-USA-MI,Sports Betting,HBC,USA (Michigan),0,0,0,NA,HBC,USA (Michigan),SEO,SEO
+TGT-SPO-USA-IN,Sports Betting,TGT,USA (Indiana),0,0,0,NA,TGT,USA (Indiana),SEO,SEO
+BTT-CAS-USA-NJ,Casino,BTT,USA (New Jersey),0,0,0,NA,BTT,USA (New Jersey),SEO,SEO
+GGC-SPO-USA-IL,Sports Betting,GGC,USA (Illinois),0,0,0,NA,GGC,USA (Illinois),SEO,SEO
+HBC-SPO-USA-IL,Sports Betting,HBC,USA (Illinois),0,0,0,NA,HBC,USA (Illinois),SEO,SEO
+PMG-SPO-USA-KS-TWT,Sports Betting,PMG,USA (Kansas),Twitter,0,0,NA,PMG,USA (Kansas),Social (Organic),Social
+HBC-SPO-USA-VA,Sports Betting,HBC,USA (Virginia),0,0,0,NA,HBC,USA (Virginia),SEO,SEO
+HBC-SPO-USA-IA,Sports Betting,HBC,USA (Iowa),0,0,0,NA,HBC,USA (Iowa),SEO,SEO
+GBH-SPO-USA-IA,Sports Betting,GBH,USA (Iowa),0,0,0,NA,GBH,USA (Iowa),SEO,SEO
+PLAYERSBESTFULL,Sports Betting,PLA,USA (Default),0,0,Promocode,NA,PLA,USA (Default),SEO,SEO
+BNE-CAS-USA-NJ,Casino,BNE,USA (New Jersey),0,0,0,NA,BNE,USA (New Jersey),SEO,SEO
+BTT-SPO-USA-IL,Sports Betting,BTT,USA (Illinois),0,0,0,NA,BTT,USA (Illinois),SEO,SEO
+GGC-SPO-USA-IA,Sports Betting,GGC,USA (Iowa),0,0,0,NA,GGC,USA (Iowa),SEO,SEO
+GBH-DFS-USA-IL,Daily Fantasy Sports,GBH,USA (Illinois),0,0,0,NA,GBH,USA (Illinois),SEO,SEO
+PBC-SPO-USA-MI,Sports Betting,PBC,USA (Michigan),0,0,0,NA,PBC,USA (Michigan),SEO,SEO
+WET-CAS-USA-MI,Casino,WET,USA (Michigan),0,0,0,NA,WET,USA (Michigan),SEO,SEO
+GBH-SPO-USA-CO,Sports Betting,GBH,USA (Colorado),0,0,0,NA,GBH,USA (Colorado),SEO,SEO
+STF-SPO-USA-CO,Sports Betting,STF,USA (Colorado),0,0,0,NA,STF,USA (Colorado),SEO,SEO
+GBH-DFS-USA-VA,Daily Fantasy Sports,GBH,USA (Virginia),0,0,0,NA,GBH,USA (Virginia),SEO,SEO
+STF-DFS-USA-TX - DFS,Daily Fantasy Sports,STF,USA (Texas),0,0,0,NA,STF,USA (Texas),SEO,SEO
+HBC-HOR-USA-LA - SBK,Horse Betting,HBC,USA (Louisiana),0,0,0,NA,HBC,USA (Louisiana),SEO,SEO
+GGC-SPO-USA-LA - SBK,Sports Betting,GGC,USA (Louisiana),0,0,0,NA,GGC,USA (Louisiana),SEO,SEO
+GGC-CAS-USA-ON,Casino,GGC,Canada (Ontario),0,0,0,NA,GGC,Canada (Ontario),SEO,SEO
+PBC-SCS-USA-IA,Social Casino,PBC,USA (Iowa),0,0,0,NA,PBC,USA (Iowa),SEO,SEO
+BNE-SCS-USA-VA,Social Casino,BNE,USA (Virginia),0,0,0,NA,BNE,USA (Virginia),SEO,SEO
+BNE-SCS-USA-NJ,Social Casino,BNE,USA (New Jersey),0,0,0,NA,BNE,USA (New Jersey),SEO,SEO
+BNE-SCS-USA-IA,Social Casino,BNE,USA (Iowa),0,0,0,NA,BNE,USA (Iowa),SEO,SEO
+BNE-SCS-USA-CO,Social Casino,BNE,USA (Colorado),0,0,0,NA,BNE,USA (Colorado),SEO,SEO
+WET-SCS-USA-FL,Social Casino,WET,USA (Florida),0,0,0,NA,WET,USA (Florida),SEO,SEO
+BNE-SCS-USA-GA,Social Casino,BNE,USA (Georgia),0,0,0,NA,BNE,USA (Georgia),SEO,SEO
+PPC-SPO-USA-MD-BAD,Sports Betting,PPC,USA (Maryland),Bing,0,0,USMarylandSpo.Bing,PPC,USA (Maryland),PPC,PPC
+CTC-SCS-USA-IA,Social Casino,CTC,USA (Iowa),0,0,0,NA,CTC,USA (Iowa),SEO,SEO
+BNE-SCS-USA-AZ,Social Casino,BNE,USA (Arizona),0,0,0,NA,BNE,USA (Arizona),SEO,SEO
+BNE-SCS-USA-NC,Social Casino,BNE,USA (North Carolina),0,0,0,NA,BNE,USA (North Carolina),SEO,SEO
+PPC-CAS-USA-PCO,Casino,PPC,USA (Default),0,0,0,US.PCO,PPC,USA (Default),PPC,PPC
+BNE-SCS-USA-FL,Social Casino,BNE,USA (Florida),0,0,0,NA,BNE,USA (Florida),SEO,SEO
+GGC-SCS-USA-IN,Social Casino,GGC,USA (Indiana),0,0,0,NA,GGC,USA (Indiana),SEO,SEO
+BNE-SCS-USA,Social Casino,BNE,USA (Default),0,0,0,NA,BNE,USA (Default),SEO,SEO
+BNE-SCS-USA-CA,Social Casino,BNE,USA (California),0,0,0,NA,BNE,USA (California),SEO,SEO
+GGC-SCS-USA-GA,Social Casino,GGC,USA (Georgia),0,0,0,NA,GGC,USA (Georgia),SEO,SEO
+WET-SCS-USA-IN,Social Casino,WET,USA (Indiana),0,0,0,NA,WET,USA (Indiana),SEO,SEO
+GGC-SPO-USA,Sports Betting,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),SEO,SEO
+WET-SCS-USA-AZ,Social Casino,WET,USA (Arizona),0,0,0,NA,WET,USA (Arizona),SEO,SEO
+GGC-SCS-USA-IA,Social Casino,GGC,USA (Iowa),0,0,0,NA,GGC,USA (Iowa),SEO,SEO
+CTC-SCS-USA-NC,Social Casino,CTC,USA (North Carolina),0,0,0,NA,CTC,USA (North Carolina),SEO,SEO
+GGC-SCS-USA-VA,Social Casino,GGC,USA (Virginia),0,0,0,NA,GGC,USA (Virginia),SEO,SEO
+GGC-SCS-USA-MI,Social Casino,GGC,USA (Michigan),0,0,0,NA,GGC,USA (Michigan),SEO,SEO
+GGC-SCS-USA-NJ,Social Casino,GGC,USA (New Jersey),0,0,0,NA,GGC,USA (New Jersey),SEO,SEO
+GGC-SCS-USA-AZ,Social Casino,GGC,USA (Arizona),0,0,0,NA,GGC,USA (Arizona),SEO,SEO
+CTC-SCS-USA-IN,Social Casino,CTC,USA (Indiana),0,0,0,NA,CTC,USA (Indiana),SEO,SEO
+WET-CAS-USA-NJ-Sugar,Casino,WET,USA (New Jersey),0,0,0,NA,WET,USA (New Jersey),SEO,SEO
+CTC-SCS-USA-FL,Social Casino,CTC,USA (Florida),0,0,0,NA,CTC,USA (Florida),SEO,SEO
+STF-CAS-USA-MI,Casino,STF,USA (Michigan),0,0,0,NA,STF,USA (Michigan),SEO,SEO
+GBH-SCS-USA-TN,Social Casino,GBH,USA (Tennessee),0,0,0,NA,GBH,USA (Tennessee),SEO,SEO
+BUK-SPO-USA-AZ,Sports Betting,BUK,USA (Arizona),0,0,0,NA,BUK,USA (Arizona),SEO,SEO
+CAPTAINSPOFULL,Sports Betting,CAP,USA (Default),0,0,Promocode,NA,CAP,USA (Default),SEO,SEO
+SPORTTRUTHCZR,Sports Betting,SPO,Global,0,0,Promocode,NA,SPO,Global,SEO,SEO
+STF-DFS-USA-CO - DFS,Daily Fantasy Sports,STF,USA (Colorado),0,0,0,NA,STF,USA (Colorado),SEO,SEO
+PROMOGUYCZR,Sports Betting,PRO,USA (Default),0,0,Promocode,NA,PRO,USA (Default),Social (Organic),Social
+BNE IGA USA YTPAT,#N/A,BNE,#N/A,#N/A,#N/A,#N/A,NA,BNE,#N/A,#N/A,#N/A
+TBC-FOR-DEU,Forex,TBC,Germany,0,0,0,NA,TBC,Germany,SEO,SEO
+GGC CAS USA YTPAT Borgata,Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+PPC-CAS-CANFR-OWN,Casino,PPC,Canada (FR),0,0,0,Canadacasfr.Bing,PPC,Canada (FR),PPC,PPC
+PPC-CAS-DEU-OWN,Casino,PPC,Germany,0,0,0,Germanycas.Google,PPC,Germany,PPC,PPC
+BUK-SPO-GBR,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+GGCCASDEUWildz,Casino,GGC,Germany,0,Wildz,0,NA,GGC,Germany,SEO,SEO
+STF SPO USA MI BetMGM,Sports Betting,STF,USA (Michigan),0,0,0,NA,STF,USA (Michigan),SEO,SEO
+STV SPO DEU Bwin,Sports Betting,STV,Germany,0,0,0,NA,STV,Germany,SEO,SEO
+PPC-CAS-CANFR-GAD,Casino,PPC,Canada (FR),Google,0,0,Canadacasfr.Google,PPC,Canada (FR),PPC,PPC
+STF-SPO-GBR,Sports Betting,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+PPC-CAS-DEU-BAD,Casino,PPC,Germany,Bing,0,0,Germanycas.Bing,PPC,Germany,PPC,PPC
+WET-SPO-CAN,Sports Betting,WET,Canada (EN),0,0,0,NA,WET,Canada (EN),SEO,SEO
+STF-SPO-GBR-old,Sports Betting,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+BUK SPO IRL,Sports Betting,BUK,Ireland,0,0,0,NA,BUK,Ireland,SEO,SEO
+BLD-SPO-DEU,Sports Betting,BLD,Germany,0,0,0,NA,BLD,Germany,SEO,SEO
+STVCASDEUWildz,Casino,STV,Germany,0,Wildz,0,NA,STV,Germany,SEO,SEO
+LKG-CAS-DEU-SMD,Casino,LKG,Germany,Social Media,0,0,NA,LKG,Germany,APP,Generic
+BUK SPO USA PA BetMGM,Sports Betting,BUK,USA (Pennsylvania),0,0,0,NA,BUK,USA (Pennsylvania),SEO,SEO
+PMG CAS USA PA SEO Borgata,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+PPC SPO DEU BAD Bwin,Sports Betting,PPC,Germany,Bing,0,0,Germanyspo.Bing,PPC,Germany,PPC,PPC
+WET-CAS-CHE code: wetten777,Casino,WET,Switzerland,0,0,Promocode,NA,WET,Switzerland,SEO,SEO
+PPC-CAS-CANFR-BAD,Casino,PPC,Canada (FR),Bing,0,0,Canadacasfr.Bing,PPC,Canada (FR),PPC,PPC
+PPC-OUT-CAN-TCS,Igaming,PPC,Canada (EN),0,0,0,LEGACY,PPC,Canada (EN),PPC,PPC
+HBC-HOR-GBR,Horse Betting,HBC,United Kingdom,0,0,0,NA,HBC,United Kingdom,SEO,SEO
+fpdetfdeu,ETF,fpd,Germany,0,0,0,NA,fpd,Germany,SEO,SEO
+BTN-SPO-GBR,Sports Betting,BTN,United Kingdom,0,0,0,NA,BTN,United Kingdom,SEO,SEO
+TIPSPRO,Sports Betting,TIP,Brazil,0,0,0,NA,TIP,Brazil,Social (Paid),Social
+WET-SPO-IND,Sports Betting,WET,India,0,0,0,NA,WET,India,SEO,SEO
+WET-CAS-DEU-NOVO,Casino,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+BUK CAS IRL,Casino,BUK,Ireland,0,0,0,NA,BUK,Ireland,SEO,SEO
+PPC-SPO-PER-BAD,Sports Betting,PPC,Peru,Bing,0,0,Peruspo.Bing,PPC,Peru,PPC,PPC
+PBCCASDEUWildz,Casino,PBC,Germany,0,0,0,NA,PBC,Germany,SEO,SEO
+SIC-CAS-DEU,Casino,SIC,Germany,0,0,0,NA,SIC,Germany,SEO,SEO
+BWW-CAS-DEU-SMD,Casino,BWW,Germany,Social Media,0,0,NA,BWW,Germany,Social (Streaming),Streaming
+GGC CAS USA NJ BetMGM,Casino,GGC,USA (New Jersey),0,0,0,NA,GGC,USA (New Jersey),SEO,SEO
+PMG SPO USA BetMGM,Sports Betting,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+GBH SPO USA OH,#N/A,GBH,#N/A,#N/A,#N/A,#N/A,NA,GBH,#N/A,#N/A,#N/A
+PMG SPO USA IA,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+BLD SPO DEU,Sports Betting,BLD,Germany,0,0,0,NA,BLD,Germany,SEO,SEO
+GGC SPO CAN Bwin,Sports Betting,GGC,Canada (EN),0,0,0,NA,GGC,Canada (EN),SEO,SEO
+STF SPO GBR,Sports Betting,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+EBC-EPT-CAN,eSports,EBC,Canada (EN),0,0,0,NA,EBC,Canada (EN),SEO,SEO
+PPC-CAS-CANEN-OWN,Casino,PPC,Canada (EN),0,0,0,Canadacasen.Bing,PPC,Canada (EN),PPC,PPC
+PPC-AUT-CDI,Casino,PPC,Austria,0,0,0,Austria,PPC,Austria,PPC,PPC
+PPC-MGID-NZL,Igaming,PPC,New Zealand,0,0,0,LEGACY,PPC,New Zealand,PPC,PPC
+PPC-CAN-ISR,Casino,PPC,Canada (EN),0,0,0,Canadacasen.Google,PPC,Canada (EN),PPC,PPC
+GGC-SPO-IND,Sports Betting,GGC,India,0,0,0,NA,GGC,India,SEO,SEO
+STF-SPO-BRA-20bet,Sports Betting,STF,Brazil,0,20Bet,0,NA,STF,Brazil,SEO,SEO
+STF-CAS-ESP-CHL,Casino,STF,Chile,0,0,0,NA,STF,Chile,SEO,SEO
+STF-EPT--CAN,eSports,STF,Canada (EN),0,0,0,NA,STF,Canada (EN),SEO,SEO
+BZN-CAS-NZL,Casino,BZN,New Zealand,0,0,0,NA,BZN,New Zealand,SEO,SEO
+STF-SPO-BRA,Sports Betting,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+RTN-CAS-DEU-NOVO,Casino,RTN,Germany,0,0,0,NA,RTN,Germany,SEO,SEO
+BUK-SPO-GBR-OLD,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+Empty,Divers,Emp,Global,0,0,0,NA,Emp,Global,SEO,SEO
+BNE-SPO-GLO-NGA,Sports Betting,BNE,Nigeria,0,0,0,NA,BNE,Nigeria,SEO,SEO
+STF SPO BRA,Sports Betting,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+WET-CAS-MEX,Casino,WET,Mexico,0,0,0,NA,WET,Mexico,SEO,SEO
+GGC SPO USA YTPAT,Sports Betting,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+GGC CAS USA CAN YTPAT,Casino,GGC,Canada (EN),0,0,0,NA,GGC,Canada (EN),Social (Youtube),Social
+WET SPO CAN,Sports Betting,WET,Canada (EN),0,0,0,NA,WET,Canada (EN),SEO,SEO
+STV-CAS-DEU,Casino,STV,Germany,0,0,0,NA,STV,Germany,SEO,SEO
+WETCASDEUWildz,Casino,WET,Germany,0,Wildz,0,NA,WET,Germany,SEO,SEO
+WET-CAS-DEU,Casino,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+STF-CAS-DEU,Casino,STF,Germany,0,0,0,NA,STF,Germany,SEO,SEO
+WET-CAS-DEU-POM,Casino,WET,Germany,Provider of the Month Banner,0,0,NA,WET,Germany,SEO,SEO
+CGC-CAS-GLO,Casino,CGC,Global,0,0,0,NA,CGC,Global,SEO,SEO
+GBH CAS USA PA Borgata,Casino,GBH,USA (Pennsylvania),0,0,0,NA,GBH,USA (Pennsylvania),SEO,SEO
+GBH CAS USA PA BetMGM,Casino,GBH,USA (Pennsylvania),0,0,0,NA,GBH,USA (Pennsylvania),SEO,SEO
+WET CAS USA MI BetMGM,Casino,WET,USA (Michigan),0,0,0,NA,WET,USA (Michigan),SEO,SEO
+PBC SPO USA YTINT,Sports Betting,PBC,USA (Default),0,0,0,NA,PBC,USA (Default),Social (Youtube),Social
+PPC CAS USA PA GAD Borgata,Casino,PPC,USA (Pennsylvania),Google,0,0,USPennsylvaniaCas.Google,PPC,USA (Pennsylvania),PPC,PPC
+PPC SPO USA MI GAD BNE,#N/A,PPC,#N/A,#N/A,#N/A,#N/A,NA,PPC,#N/A,#N/A,#N/A
+PMG SPO USA PA,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+PPC SPO  DEU OWN Sportingbet,#N/A,PPC,#N/A,#N/A,#N/A,#N/A,NA,PPC,#N/A,#N/A,#N/A
+BUK SPO GBR Bwin,Sports Betting,BUK,United Kingdom,0,Bwin,0,NA,BUK,United Kingdom,SEO,SEO
+GEN SPO GLO,Sports Betting,GEN,Global,0,0,0,NA,GEN,Global,SEO,SEO
+EED SPO DEU,Sports Betting,EED,Germany,0,0,0,NA,EED,Germany,SEO,SEO
+BUK SPO GBR GJT,Sports Betting,BUK,United Kingdom,Social Media,0,0,NA,BUK,United Kingdom,Social (Organic),Social
+BNE IGA GLO YTPAT,Igaming,BNE,Global,0,0,0,NA,BNE,Global,Social (Youtube),Social
+Casino Master-Tracker,Casino,Cas,Global,0,0,0,NA,Cas,Global,SEO,SEO
+STV-CAS-CHE,Casino,STV,Switzerland,0,0,0,NA,STV,Switzerland,SEO,SEO
+EBC-EPT-GBR,eSports,EBC,United Kingdom,0,0,0,NA,EBC,United Kingdom,SEO,SEO
+STV-CAS-DEU-SMD,Casino,STV,Germany,Social Media,0,0,NA,STV,Germany,Social (Streaming),Generic
+PPC-CAS-CANEN-GAD,Casino,PPC,Canada (EN),Google,0,0,Canadacasen.Google,PPC,Canada (EN),PPC,PPC
+NZ,Divers,NZ,New Zealand,0,0,0,NA,NZ,New Zealand,SEO,SEO
+PPC-CAS-CCB,Casino,PPC,Global,0,0,0,LEGACY,PPC,Global,PPC,PPC
+PPC-AUT-ODC,Igaming,PPC,Austria,0,0,0,Austria,PPC,Austria,PPC,PPC
+PPC-OUT-NZL,Igaming,PPC,New Zealand,0,0,0,LEGACY,PPC,New Zealand,PPC,PPC
+EED-CAS-DEU,Casino,EED,Germany,0,0,0,NA,EED,Germany,SEO,SEO
+BUK-CAS-GBR-Mecca,Casino,BUK,United Kingdom,0,Mecca Bingo,0,NA,BUK,United Kingdom,SEO,SEO
+PPC-SPO-CHE-GAD-20Bet,Sports Betting,PPC,Switzerland,Google,20Bet,0,SwitzerlandSpo.Google,PPC,Switzerland,PPC,PPC
+PPC-CAN-TGF,Igaming,PPC,Canada (EN),Google,0,0,Canadacasen.Google,PPC,Canada (EN),PPC,PPC
+TBC-STO-DEU,Stocks,TBC,Germany,0,0,0,NA,TBC,Germany,SEO,SEO
+GGC-CAS-IND,Casino,GGC,India,0,0,0,NA,GGC,India,SEO,SEO
+STF-EPT-JPN,eSports,STF,Japan,0,0,0,NA,STF,Japan,SEO,SEO
+STF-CAS-ESP-PER-20bet,Casino,STF,Peru,0,20Bet,0,NA,STF,Peru,SEO,SEO
+STF-SPO-GLO-CRYPTO,Sports Betting,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+STF-CAS-GLO-GBR,Casino,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+WET-SPO-NZL,Sports Betting,WET,New Zealand,0,0,0,NA,WET,New Zealand,SEO,SEO
+FPD-SPO-DEU,Sports Betting,FPD,Germany,0,0,0,NA,FPD,Germany,SEO,SEO
+GGC-CAS-CAN-Nucleon-Exclusive,Casino,GGC,Canada (EN),0,0,0,NA,GGC,Canada (EN),SEO,SEO
+BNE-SPO-GBR,Sports Betting,BNE,United Kingdom,0,0,0,NA,BNE,United Kingdom,SEO,SEO
+GEN-SPO-GLO,Sports Betting,GEN,Global,0,0,0,NA,GEN,Global,SEO,SEO
+STF-SPO-GLO-AUS,Sports Betting,STF,Australia,0,0,0,NA,STF,Australia,SEO,SEO
+BUK-CAS-GBR,Casino,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+GGC-CAS-USA-CAN-YTPAT,Casino,GGC,Canada (EN),0,0,0,NA,GGC,Canada (EN),Social (Youtube),Social
+GGC-CAS-DEU-NOVO,Casino,GGC,Germany,0,0,0,NA,GGC,Germany,SEO,SEO
+STF-CAS-DEU-NOVO,Casino,STF,Germany,0,0,0,NA,STF,Germany,SEO,SEO
+STF-CAS-GBR,Casino,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+BNE-SPO-GLO-KEN,Sports Betting,BNE,Kenya,0,0,0,NA,BNE,Kenya,SEO,SEO
+MYB-SPO-IND,Sports Betting,MYB,India,0,0,0,NA,MYB,India,SEO,SEO
+STF CAS ESP,Casino,STF,Spain,0,0,0,NA,STF,Spain,SEO,SEO
+WET SPO DEU YTPAT,Sports Betting,WET,Germany,YouTube Intern,0,0,NA,WET,Germany,Social (Youtube),Social
+WET-SPO-MEX,Sports Betting,WET,Mexico,0,0,0,NA,WET,Mexico,SEO,SEO
+PPC-SPO-DEU-BAD,Sports Betting,PPC,Germany,Bing,0,0,Germanyspo.Bing,PPC,Germany,PPC,PPC
+PMG SPO USA ,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+WETSPODEU,Sports Betting,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+GBH-SPO-CAN-ON,Sports Betting,GBH,Canada (Ontario),0,0,0,NA,GBH,Canada (Ontario),SEO,SEO
+GGC-CAS-CAN-ON-YTPAT,Casino,GGC,Canada (Ontario),0,0,0,NA,GGC,Canada (Ontario),Social (Youtube),Social
+WET SPO AUT,Sports Betting,WET,Austria,0,0,0,NA,WET,Austria,SEO,SEO
+RTN-CAS-DEU,Casino,RTN,Germany,0,0,0,NA,RTN,Germany,SEO,SEO
+none,Divers,non,Global,0,0,0,NA,non,Global,SEO,SEO
+Default,Divers,Def,Global,0,0,0,NA,Def,Global,SEO,SEO
+PBC-CAS-DEU,Casino,PBC,Germany,0,0,0,NA,PBC,Germany,SEO,SEO
+TCC-CAS-DEU,Casino,TCC,Germany,0,0,0,NA,TCC,Germany,SEO,SEO
+STV-CAS-DEU-Hero,Casino,STV,Germany,Hero Cards,0,0,NA,STV,Germany,SEO,SEO
+RTN-CAS-DEU-POM,Casino,RTN,Germany,Provider of the Month Banner,0,0,NA,RTN,Germany,SEO,SEO
+STF-SPO-GLO,Sports Betting,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+EROCFDDEU,CFD,ERO,Germany,0,0,0,NA,ERO,Germany,SEO,SEO
+WET CAS USA NJ BetMGM,Casino,WET,USA (New Jersey),0,0,0,NA,WET,USA (New Jersey),SEO,SEO
+GGC SPO USA YTPAT BetMGM,Sports Betting,GGC,USA (Default),0,BetMGM,0,NA,GGC,USA (Default),Social (Youtube),Social
+GBH CAS USA MI BetMGM,Casino,GBH,USA (Michigan),0,0,0,NA,GBH,USA (Michigan),SEO,SEO
+GGC CAS USA ON,Casino,GGC,Canada (Ontario),0,0,0,NA,GGC,Canada (Ontario),SEO,SEO
+PMG SPO USA SEO,Sports Betting,PMG,USA (Default),0,0,0,NA,PMG,USA (Default),SEO,SEO
+GBH CAS USA ON,Casino,GBH,Canada (Ontario),0,0,0,NA,GBH,Canada (Ontario),SEO,SEO
+RTYBONUS,Sports Betting,RTY,USA (Default),Routy,0,Promocode,NA,RTY,USA (Default),Social (Organic),Social
+GMBLUSA,Casino,GMB,USA (Default),0,0,Promocode,NA,GMB,USA (Default),SEO (Parasite),SEO
+PPC-SPO-USA-NY-BAD,Sports Betting,PPC,USA (New York),Bing,0,0,USNewYorkSpoBH.Bing,PPC,USA (New York),PPC,PPC
+PMG SPO USA IL TWT,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+PFD SPO USA TGT EVCH,#N/A,PFD,#N/A,#N/A,#N/A,#N/A,NA,PFD,#N/A,#N/A,#N/A
+WET CAS USA BetMGM,Casino,WET,USA (Default),0,0,0,NA,WET,USA (Default),SEO,SEO
+BNE IGA GLO YTPAT PartyP,Igaming,BNE,Global,0,0,0,NA,BNE,Global,Social (Youtube),Social
+GGC CAS CAN YTPAT PartyC,Casino,GGC,Canada (EN),0,PartyCasino,0,NA,GGC,Canada (EN),Social (Youtube),Social
+STF EPT GBR Sportingbet,eSports,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+PPC SPO DEU GAD Bwin,Sports Betting,PPC,Germany,Google,0,0,Germanyspo.Bing,PPC,Germany,PPC,PPC
+CDefault,Igaming,CDe,Global,0,0,0,NA,CDe,Global,SEO,SEO
+STF SPO BRA Sportingbet,Sports Betting,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+STF CAS BRA,Casino,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+PPC SPO DEU OWN Bwin,Sports Betting,PPC,Germany,0,0,0,Germanyspo.Google,PPC,Germany,PPC,PPC
+BUK CAS GBR,Casino,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+BUK SPO GBR,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+HBC SPO AUS,Sports Betting,HBC,Australia,0,0,0,NA,HBC,Australia,SEO,SEO
+Sport Master-Tracker (CPA),Sports Betting,Spo,Global,0,0,0,NA,Spo,Global,SEO,SEO
+WET-POPUP-CH code:BONUS777GL,Casino,WET,Switzerland,0,0,Promocode,NA,WET,Switzerland,SEO,SEO
+GGC-CAS-CHE code: ggch777,Casino,GGC,Switzerland,0,0,Promocode,NA,GGC,Switzerland,SEO,SEO
+STF-EPT-CAN,eSports,STF,Canada (EN),0,0,0,NA,STF,Canada (EN),SEO,SEO
+STF-CAS-GLO,Casino,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+spielotv.com,Casino,spi,Germany,0,0,0,NA,spi,Germany,SEO,SEO
+GGC-IGA-GLO-YTTAY,Igaming,GGC,Global,0,0,0,NA,GGC,Global,Social (Youtube),Social
+PPC-CAS-CANEN-BAD,Casino,PPC,Canada (EN),Bing,0,0,Canadacasen.Bing,PPC,Canada (EN),PPC,PPC
+CA,Igaming,CA,Canada (EN),0,0,0,NA,CA,Canada (EN),SEO,SEO
+DACH,Divers,DAC,DACH,0,0,0,NA,DAC,DACH,SEO,SEO
+PPC-CaFR-CCI,Igaming,PPC,Canada (FR),0,0,0,LEGACY,PPC,Canada (FR),PPC,PPC
+PPC-CANFR-TGF,Casino,PPC,Canada (EN),0,0,0,Canadacasfr.Google,PPC,Canada (EN),PPC,PPC
+PPC-NLD-BAD,Igaming,PPC,Netherlands,Bing,0,0,LEGACY,PPC,Netherlands,PPC,PPC
+BUK-BIN-GBR-Mecca,Bingo,BUK,United Kingdom,0,Mecca Bingo,0,NA,BUK,United Kingdom,SEO,SEO
+GGC-CAS-DEU,Casino,GGC,Germany,0,0,0,NA,GGC,Germany,SEO,SEO
+STC-CAS-DEU,Casino,STC,Germany,0,0,0,NA,STC,Germany,SEO,SEO
+STF-EPT-BRA,eSports,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+PPC-CAN-CCI,Casino,PPC,Canada (EN),0,0,0,Canadacasen.Bing,PPC,Canada (EN),PPC,PPC
+EOC-SPO-PER,Sports Betting,EOC,Peru,0,0,0,NA,EOC,Peru,SEO,SEO
+STFCASJPNCRYPTO,Casino,STF,Japan,0,0,0,NA,STF,Japan,SEO,SEO
+STV-CAS-DEU-SMD-Spinia,Casino,STV,Germany,Social Media,Spinia,0,NA,STV,Germany,Social (Streaming),Generic
+STF-SPO-GLO-NZL,Sports Betting,STF,New Zealand,0,0,0,NA,STF,New Zealand,SEO,SEO
+STFEPTGLO,eSports,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+STF-EPT-GLO,eSports,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+STF-SPO-GLO-BG,Sports Betting,STF,Bulgaria,0,0,0,NA,STF,Bulgaria,SEO,SEO
+STV-CAS-AUT-SMD,Casino,STV,Austria,Social Media,0,0,NA,STV,Austria,Social (Streaming),Generic
+BUK-SPO-GBR-GJT,Sports Betting,BUK,United Kingdom,Social Media,0,0,NA,BUK,United Kingdom,Social (Organic),Social
+BUK-CAS-UK,Casino,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+WET-SPO-DEU,Sports Betting,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+RTN-SPO-DEU,Sports Betting,RTN,Germany,0,0,0,NA,RTN,Germany,SEO,SEO
+WET-SPO-POL,Sports Betting,WET,Poland,0,0,0,NA,WET,Poland,SEO,SEO
+PBC-SPO-GBR,Sports Betting,PBC,United Kingdom,0,0,0,NA,PBC,United Kingdom,SEO,SEO
+STF-SPO-ZAF,Sports Betting,STF,South Africa,0,0,0,NA,STF,South Africa,SEO,SEO
+STF-CAS-ZAF,Casino,STF,South Africa,0,0,0,NA,STF,South Africa,SEO,SEO
+BUK-CAS-GBP,Casino,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+PPC-CAS-DEU-BAD-Nucleon,Casino,PPC,Germany,Bing,0,0,Germanycas.Bing,PPC,Germany,PPC,PPC
+PPC-SPO-DEU-GAD,Sports Betting,PPC,Germany,Google,0,0,Germanyspo.Google,PPC,Germany,PPC,PPC
+WET-SPO-AUS,Sports Betting,WET,Australia,0,0,0,NA,WET,Australia,SEO,SEO
+TP2022,Sports Betting,TP2,Brazil,0,0,0,NA,TP2,Brazil,Social (Paid),Social
+WET-SPO-USA-IL,Sports Betting,WET,USA (Illinois),0,0,0,NA,WET,USA (Illinois),SEO,SEO
+www.betting.co.uk,Igaming,www,United Kingdom,0,0,0,NA,www,United Kingdom,SEO,SEO
+BEC-CAS-DEU,Casino,BEC,Germany,0,0,0,NA,BEC,Germany,SEO,SEO
+STV-CAS-DEU-NOVO,Casino,STV,Germany,0,0,0,NA,STV,Germany,SEO,SEO
+WET-SPO-USA-NJ,Sports Betting,WET,USA (New Jersey),0,0,0,NA,WET,USA (New Jersey),SEO,SEO
+Tipster Wettencom,Sports Betting,Tip,Germany,0,0,0,NA,Tip,Germany,Social (Paid),Social
+STF-CAS-JPN,Casino,STF,Japan,0,0,0,NA,STF,Japan,SEO,SEO
+TRUTHCASINO,Casino,TRU,Global,0,0,Promocode,NA,TRU,Global,SEO,SEO
+WETBONUSCZR,Sports Betting,WET,Global,0,0,Promocode,NA,WET,Global,SEO,SEO
+STF-CAS-CAN,Casino,STF,Canada (EN),0,0,0,NA,STF,Canada (EN),SEO,SEO
+BNE SPO GLO,Sports Betting,BNE,Global,0,0,0,NA,BNE,Global,SEO,SEO
+GGC IGA GLO YTPAT,Igaming,GGC,Global,0,0,0,NA,GGC,Global,Social (Youtube),Social
+STF SPO GLO,Sports Betting,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+STR EPT BRA,eSports,STR,Brazil,0,0,0,NA,STR,Brazil,SEO,SEO
+PROMOCLUBFULL,Sports Betting,PRO,USA (Default),0,0,Promocode,NA,PRO,USA (Default),Social (Organic),Social
+WET-SPO-PER,Sports Betting,WET,Peru,0,0,0,NA,WET,Peru,SEO,SEO
+PPC-DEU-SPO-GOWN,Sports Betting,PPC,Germany,Google,0,0,Germanyspo.Google,PPC,Germany,PPC,PPC
+HBC HOR USA,Horse Betting,HBC,USA (Default),0,0,0,NA,HBC,USA (Default),SEO,SEO
+PMG-SPO-USA-RTY,Sports Betting,PMG,USA (Default),Routy,0,0,NA,PMG,USA (Default),SEO,SEO
+TGT SPO USA NJ,Sports Betting,TGT,USA (New Jersey),0,0,0,NA,TGT,USA (New Jersey),SEO,SEO
+BUK-SPO-IRL,Sports Betting,BUK,Ireland,0,0,0,NA,BUK,Ireland,SEO,SEO
+GGC CAS USA NZL YTPAT,Casino,GGC,New Zealand,0,0,0,NA,GGC,New Zealand,Social (Youtube),Social
+GGC-CAS-CAN-ON,Casino,GGC,Canada (Ontario),0,0,0,NA,GGC,Canada (Ontario),SEO,SEO
+STF CAS CAN,Casino,STF,Canada (EN),0,0,0,NA,STF,Canada (EN),SEO,SEO
+TGT-SPO-CAN-ON,Sports Betting,TGT,Canada (Ontario),0,0,0,NA,TGT,Canada (Ontario),SEO,SEO
+STF EPT BRA,eSports,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+STF EPT GBR,eSports,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+STF EPT HUN,eSports,STF,Hungary,0,0,0,NA,STF,Hungary,SEO,SEO
+EROFORDEU,Forex,ERO,Germany,0,0,0,NA,ERO,Germany,SEO,SEO
+BTT-CAS-DEU,Casino,BTT,Germany,0,0,0,NA,BTT,Germany,SEO,SEO
+GGC-CAS-DEU-YTPAT,Casino,GGC,Germany,0,0,0,NA,GGC,Germany,Social (Youtube),Social
+STV-CAS-DEU-EIP,Casino,STV,Germany,Exit Intent PopUp,0,0,NA,STV,Germany,SEO,SEO
+WET-CAS-DEU-Hero,Casino,WET,Germany,Hero Cards,Vegas Hero,0,NA,WET,Germany,SEO,SEO
+RTN-CAS-DEU-MSF,Casino,RTN,Germany,Mobile Sticky Footer,0,0,NA,RTN,Germany,SEO,SEO
+PPC-CAS-DEU-GAD-WH,Casino,PPC,Germany,Google,0,0,GermanycasWH.Google,PPC,Germany,PPC,PPC
+SPP-CAS-DEU-SMD,Casino,SPP,Germany,Social Media,0,0,NA,SPP,Germany,Social (Streaming),Generic
+PBC CAS USA PA BetMGM,Casino,PBC,USA (Pennsylvania),0,0,0,NA,PBC,USA (Pennsylvania),SEO,SEO
+GBH CAS USA NJ Borgata,Casino,GBH,USA (New Jersey),0,0,0,NA,GBH,USA (New Jersey),SEO,SEO
+BONUSGUYMGM,Casino,BON,USA (Default),0,0,Promocode,NA,BON,USA (Default),SEO,SEO
+GBH CAS USA Borgata,Casino,GBH,USA (Default),0,0,0,NA,GBH,USA (Default),SEO,SEO
+STF-SPO-BRA-CRYPTO,Sports Betting,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+PPC SPO USA NY BAD,Sports Betting,PPC,USA (New York),Bing,0,0,NYesp.Google,PPC,USA (New York),PPC,PPC
+GGC CAS USA YTPAT,Casino,GGC,USA (Default),0,0,0,NA,GGC,USA (Default),Social (Youtube),Social
+STF SPO CAN ON,Sports Betting,STF,Canada (Ontario),0,0,0,NA,STF,Canada (Ontario),SEO,SEO
+STF CAS CAN ON,Casino,STF,Canada (Ontario),0,0,0,NA,STF,Canada (Ontario),SEO,SEO
+GGC CAS USA ESP BetMGM,Casino,GGC,USA (Default),Spanish,0,0,NA,GGC,USA (Default),SEO,SEO
+CTC CAS USA PA BetMGM,Casino,CTC,USA (Pennsylvania),0,0,0,NA,CTC,USA (Pennsylvania),SEO,SEO
+ACP SPO USA TWT,#N/A,ACP,#N/A,#N/A,#N/A,#N/A,NA,ACP,#N/A,#N/A,#N/A
+PMG SPO USA RTY TRM,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+BZNCASNZL,Casino,BZN,New Zealand,0,0,0,NA,BZN,New Zealand,SEO,SEO
+Migrated,Divers,Mig,Global,0,0,0,NA,Mig,Global,SEO,SEO
+GGC SPO USA OH,#N/A,GGC,#N/A,#N/A,#N/A,#N/A,NA,GGC,#N/A,#N/A,#N/A
+ODP SPO USA BetMGM,Sports Betting,ODP,USA (Default),0,0,0,NA,ODP,USA (Default),SEO,SEO
+GBH CAS USA NJ TWT PartyC,Casino,GBH,USA (New Jersey),Twitter,0,0,NA,GBH,USA (New Jersey),Social (Organic),Social
+BNE SPO GLO OH,#N/A,BNE,#N/A,#N/A,#N/A,#N/A,NA,BNE,#N/A,#N/A,#N/A
+GGC SPO USA NJ BetMGM,Sports Betting,GGC,USA (New Jersey),0,0,0,NA,GGC,USA (New Jersey),SEO,SEO
+PMG SPO USA IA TWT,#N/A,PMG,#N/A,#N/A,#N/A,#N/A,NA,PMG,#N/A,#N/A,#N/A
+FPD SPO DEU,Sports Betting,FPD,Germany,0,0,0,NA,FPD,Germany,SEO,SEO
+HBC HOR GBR Sporting,Horse Betting,HBC,United Kingdom,0,0,0,NA,HBC,United Kingdom,SEO,SEO
+STF SPO DEU Sporting,Sports Betting,STF,Germany,0,0,0,NA,STF,Germany,SEO,SEO
+BZN CAS NZL PartyC,Casino,BZN,New Zealand,0,0,0,NA,BZN,New Zealand,SEO,SEO
+BNE CAS GBR PartyC,Casino,BNE,United Kingdom,0,PartyCasino,0,NA,BNE,United Kingdom,SEO,SEO
+PPC-SPO-USA-BAD-BNE,Sports Betting,PPC,USA (Default),Bing,0,0,USArizonaSpo.Bing,PPC,USA (Default),PPC,PPC
+STR EPT BRA Sportingbet,eSports,STR,Brazil,0,0,0,NA,STR,Brazil,SEO,SEO
+WET SPO DEU CPA,Sports Betting,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+BLD SPO DEU Sportingbet,Sports Betting,BLD,Germany,0,Sportingbet,0,NA,BLD,Germany,SEO,SEO
+BNE IGA GLO YTPAT Sporting,Igaming,BNE,Global,0,0,0,NA,BNE,Global,Social (Youtube),Social
+GGC-CAS-USA-NJ-YTPAT,Casino,GGC,USA (New Jersey),0,0,0,NA,GGC,USA (New Jersey),Social (Youtube),Social
+STF-SPO-JPN,Sports Betting,STF,Japan,0,0,0,NA,STF,Japan,SEO,SEO
+BTN SPO GBR,Sports Betting,BTN,United Kingdom,0,0,0,NA,BTN,United Kingdom,SEO,SEO
+STF-SPO-USA-AZ,Sports Betting,STF,USA (Arizona),0,0,0,NA,STF,USA (Arizona),SEO,SEO
+HBC SPO GBR,Sports Betting,HBC,United Kingdom,0,0,0,NA,HBC,United Kingdom,SEO,SEO
+Sport Master-Tracker,Sports Betting,Spo,Global,0,0,0,NA,Spo,Global,SEO,SEO
+UKBET,Sports Betting,UKB,United Kingdom,0,0,0,NA,UKB,United Kingdom,SEO,SEO
+EBC-EPT-USA,eSports,EBC,USA (Default),0,0,0,NA,EBC,USA (Default),SEO,SEO
+RTN-CAS-CHE  -redak777,#N/A,RTN,#N/A,#N/A,#N/A,#N/A,NA,RTN,#N/A,#N/A,#N/A
+PPC-SPO-PER-GAD,Sports Betting,PPC,Peru,Google,0,0,Peruspo.Google,PPC,Peru,PPC,PPC
+STF-EPT-GBR,eSports,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+STF-EPT-IND,eSports,STF,India,0,0,0,NA,STF,India,SEO,SEO
+EBC-EPT-GBR-IND,eSports,EBC,India,0,0,0,NA,EBC,India,SEO,SEO
+STV-CAS-DEU-SMD-Nucleon-Excl,Casino,STV,Germany,Social Media,0,0,NA,STV,Germany,Social (Streaming),Generic
+www.wetten.com,Sports Betting,www,Global,0,0,0,NA,www,Global,SEO,SEO
+RTN-CAS-DEU-Nucleon-Exclusive,Casino,RTN,Germany,0,0,0,NA,RTN,Germany,SEO,SEO
+STF-EPT-JPN-CRYPTO,eSports,STF,Japan,0,0,0,NA,STF,Japan,SEO,SEO
+WET-CAS-DEU-Lapilanders,Casino,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+FI,Divers,FI,Global,0,0,0,NA,FI,Global,SEO,SEO
+RTN-CAS_AUT,Casino,RTN,Austria,0,0,0,NA,RTN,Austria,SEO,SEO
+ZA,Igaming,ZA,Global,0,0,0,NA,ZA,Global,SEO,SEO
+PPC-NZL-CGD,Igaming,PPC,New Zealand,0,0,0,LEGACY,PPC,New Zealand,PPC,PPC
+PPC-AUT-BDE,Igaming,PPC,Austria,0,0,0,LEGACY,PPC,Austria,PPC,PPC
+PPC-NZL-APF,Igaming,PPC,New Zealand,0,0,0,LEGACY,PPC,New Zealand,PPC,PPC
+PPC-NZL-KTD,Igaming,PPC,New Zealand,0,0,0,LEGACY,PPC,New Zealand,PPC,PPC
+STF-SPO-UK,Sports Betting,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+STF-CAS-UK,Casino,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+PPC-ZAF-GAD,Casino,PPC,South Africa,Google,0,0,LEGACY,PPC,South Africa,PPC,PPC
+WET-CAS-FIN,Casino,WET,Finland,0,0,0,NA,WET,Finland,SEO,SEO
+BUK-BIN-GBR-LuckyP,Bingo,BUK,United Kingdom,0,LuckyPantsBingo,0,NA,BUK,United Kingdom,SEO,SEO
+PBC-DFS-USA,Daily Fantasy Sports,PBC,USA (Default),0,0,0,NA,PBC,USA (Default),SEO,SEO
+STV-CAS-AUT,Casino,STV,Austria,0,0,0,NA,STV,Austria,SEO,SEO
+WET-POK-DEU,Poker,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+STF-CAS-BRA,Casino,STF,Brazil,0,0,0,NA,STF,Brazil,SEO,SEO
+GGC-IGA-BRA-YTPAT,Igaming,GGC,Brazil,0,0,0,NA,GGC,Brazil,Social (Youtube),Social
+PPC-SPO-CLE-BAD,Sports Betting,PPC,Chile,Bing,0,0,Chilespo.Bing,PPC,Chile,PPC,PPC
+PBC-CAS-JPN,Casino,PBC,Japan,0,0,0,NA,PBC,Japan,SEO,SEO
+STFSPOGLO,Sports Betting,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+STF-SPO-DEU,Sports Betting,STF,Germany,0,0,0,NA,STF,Germany,SEO,SEO
+STF-SPO-GLO-GBR,Sports Betting,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+STV-CAS-DEU-SMD-Avalon,Casino,STV,Germany,Social Media,Avalon78,0,NA,STV,Germany,Social (Streaming),Generic
+GBH-SPO-AUS,Sports Betting,GBH,Australia,0,0,0,NA,GBH,Australia,SEO,SEO
+STF-SPO-IE,Sports Betting,STF,Ireland,0,0,0,NA,STF,Ireland,SEO,SEO
+STF-CAS-IE,Casino,STF,Ireland,0,0,0,NA,STF,Ireland,SEO,SEO
+EBC-IGA-BRA-YTINT,Igaming,EBC,Brazil,YouTube Intern,0,0,NA,EBC,Brazil,Social (Youtube),Social
+TIP-SPO-DEU,Sports Betting,TIP,Germany,0,0,0,NA,TIP,Germany,Social (Paid),Social
+BUK-SPO-UK,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+PBC-SPO-JPN,Sports Betting,PBC,Japan,0,0,0,NA,PBC,Japan,SEO,SEO
+TBC-CFD-DEU,CFD,TBC,Germany,0,0,0,NA,TBC,Germany,SEO,SEO
+-,#N/A,-,#N/A,#N/A,#N/A,#N/A,NA,-,#N/A,#N/A,#N/A
+HBC-SPO-GBR,Sports Betting,HBC,United Kingdom,0,0,0,NA,HBC,United Kingdom,SEO,SEO
+PPC-MENA-AVR-EN,Igaming,PPC,Arabic,0,0,0,LEGACY,PPC,Arabic,PPC,PPC
+WET-SPO-IND-BETINIA,Sports Betting,WET,India,0,Betinia,0,NA,WET,India,SEO,SEO
+WET-SPO-IND-Rabona,Sports Betting,WET,India,0,Rabona,0,NA,WET,India,SEO,SEO
+blick.de,Igaming,bli,Germany,0,0,0,NA,bli,Germany,SEO,SEO
+WTN-SPO-DEU,Sports Betting,WTN,Germany,0,0,0,NA,WTN,Germany,SEO,SEO
+STF-SPO-GLO-Nucleon-Exclusive,Sports Betting,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+BNE-SPO-GBR-YTPAT,Sports Betting,BNE,United Kingdom,0,0,0,NA,BNE,United Kingdom,Social (Youtube),Social
+KingTips www.king-tips.com,Sports Betting,Kin,Brazil,0,0,0,NA,Kin,Brazil,Social (Paid),Social
+BUK-SPO-GBR-VICKERS,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+BNE-CAS-GBR-YTPAT,Casino,BNE,United Kingdom,0,0,0,NA,BNE,United Kingdom,Social (Youtube),Social
+BUK-SPO-GBR-JENNINGSBET,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+BNE-CAS-GBR,Casino,BNE,United Kingdom,0,0,0,NA,BNE,United Kingdom,SEO,SEO
+BUK-SPO-GBR-DAZN,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+WET-CAS-BRA-Amuleto,Casino,WET,Brazil,0,AmuletoBet,0,NA,WET,Brazil,SEO,SEO
+WET-SPO-ZAF,Sports Betting,WET,South Africa,0,0,0,NA,WET,South Africa,SEO,SEO
+TBC-BRO-ESP,#N/A,TBC,#N/A,#N/A,#N/A,#N/A,NA,TBC,#N/A,#N/A,#N/A
+TGT-SPO-USA-CO,Sports Betting,TGT,USA (Colorado),0,0,0,NA,TGT,USA (Colorado),SEO,SEO
+BUK-SPO-GBP,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+TBC-CRY-DEU,Crypto,TBC,Germany,0,0,0,NA,TBC,Germany,SEO,SEO
+fpd-bro-deu,Broker,fpd,Germany,0,0,0,NA,fpd,Germany,SEO,SEO
+SAT-CRX-GLO,Crypto Exchange,SAT,Global,0,0,0,NA,SAT,Global,SEO,SEO
+FPD-STO-DEU,Stocks,FPD,Germany,0,0,0,NA,FPD,Germany,SEO,SEO
+TIPPSPLUS10,Sports Betting,TIP,Germany,0,0,0,NA,TIP,Germany,Social (Paid),Social
+STF-CAS-ESP,Casino,STF,Spain,0,0,0,NA,STF,Spain,SEO,SEO
+BUK-SPO-GBR-New,Sports Betting,BUK,United Kingdom,0,0,0,NA,BUK,United Kingdom,SEO,SEO
+NaN,Divers,NaN,Global,0,0,0,NA,NaN,Global,SEO,SEO
+STF-SPO-GLO-IND,Sports Betting,STF,India,0,0,0,NA,STF,India,SEO,SEO
+CTC-SPO-USA-IA,Sports Betting,CTC,USA (Iowa),0,0,0,NA,CTC,USA (Iowa),SEO,SEO
+landingpage - Fruit RegForm Welcome Bonus (#12064),Igaming,lan,Global,0,0,0,NA,lan,Global,SEO,SEO
+GGC-CAS-CHE,Casino,GGC,Switzerland,0,0,0,NA,GGC,Switzerland,SEO,SEO
+WET-CAS-CHE,Casino,WET,Switzerland,0,0,0,NA,WET,Switzerland,SEO,SEO
+WET-SPO-USA-TN,Sports Betting,WET,USA (Tennessee),0,0,0,NA,WET,USA (Tennessee),SEO,SEO
+BONUSPOWCZR,Sports Betting,BON,USA (Default),0,0,Promocode,USspo.Bing,BON,USA (Default),PPC,PPC
+MYB-SPO-CAN,Sports Betting,MYB,Canada (EN),0,0,0,NA,MYB,Canada (EN),SEO,SEO
+GAMBLINGGUYCZR,Sports Betting,GAM,Global,0,0,Promocode,NA,GAM,Global,SEO,SEO
+RTN-CAS-CHE,Casino,RTN,Switzerland,0,0,0,NA,RTN,Switzerland,SEO,SEO
+GGC IGA BRA YTPAT,Igaming,GGC,Brazil,0,0,0,NA,GGC,Brazil,Social (Youtube),Social
+Default Trader Campaign,#N/A,Def,#N/A,#N/A,#N/A,#N/A,NA,Def,#N/A,#N/A,#N/A
+STF BIN GBR,Bingo,STF,United Kingdom,0,0,0,NA,STF,United Kingdom,SEO,SEO
+TWC-SPO-DEU,Sports Betting,TWC,Germany,0,0,0,NA,TWC,Germany,SEO,SEO
+STF-CAS-JPN-EIP-Bons,Casino,STF,Japan,Exit Intent PopUp,0,0,NA,STF,Japan,SEO,SEO
+STF-SPO-JPN-Tedbet,Sports Betting,STF,Japan,0,Tedbet,0,NA,STF,Japan,SEO,SEO
+PROMOKING15,Sports Betting,PRO,USA (Default),Twitter,0,Promocode,NA,PRO,USA (Default),Social (Organic),Social
+GANAVIPFULL,Sports Betting,GAN,USA (Default),0,0,Promocode,arizowhspous.Google,GAN,USA (Default),PPC,PPC
+STF SPO USA,Sports Betting,STF,USA (Default),0,0,0,NA,STF,USA (Default),SEO,SEO
+TGT SPO USA,Sports Betting,TGT,USA (Default),0,0,0,NA,TGT,USA (Default),SEO,SEO
+GGC-SPO-DEU,Sports Betting,GGC,Germany,0,0,0,NA,GGC,Germany,SEO,SEO
+PROMOGUYFULL,Sports Betting,PRO,USA (Default),0,0,Promocode,NA,PRO,USA (Default),Social (Organic),Social
+BTT SPO JPN,Sports Betting,BTT,Japan,0,0,0,NA,BTT,Japan,SEO,SEO
+STF-SPO-GLO-CAN,Sports Betting,STF,Canada (EN),0,0,0,NA,STF,Canada (EN),SEO,SEO
+WET-SPO-DEU-EIP,Sports Betting,WET,Germany,Exit Intent PopUp,0,0,NA,WET,Germany,SEO,SEO
+C13-CAS-GLO,Casino,C13,Global,YouTube Max,0,0,NA,C13,Global,Social (Youtube),Social
+RTYBONUSFULL,Sports Betting,RTY,USA (Default),Routy,0,Promocode,NA,RTY,USA (Default),Social (Organic),Social
+ERCBRODEU,Broker,ERC,Germany,0,0,0,NA,ERC,Germany,SEO,SEO
+WET-EPT-DEU,eSports,WET,Germany,0,0,0,NA,WET,Germany,SEO,SEO
+SND-CAS-DEU,Casino,SND,Germany,0,0,0,NA,SND,Germany,SEO,SEO
+STF-CAS-GLO-CRYPTO,Casino,STF,Global,0,0,0,NA,STF,Global,SEO,SEO
+PPC-CAS-DEU-GAD,Casino,PPC,Germany,Google,0,0,Germanycas.Google,PPC,Germany,PPC,PPC
+WET-CAS-DEU-MSF,Casino,WET,Germany,Mobile Sticky Footer,0,0,NA,WET,Germany,SEO,SEO
+WET-CAS-DEU-EIP,Casino,WET,Germany,Exit Intent PopUp,0,0,NA,WET,Germany,SEO,SEO
+RTN-CAS-DEU-EIP,Casino,RTN,Germany,Exit Intent PopUp,0,0,NA,RTN,Germany,SEO,SEO
+RTN-CAS-DEU-Hero,Casino,RTN,Germany,Hero Cards,0,0,NA,RTN,Germany,SEO,SEO
