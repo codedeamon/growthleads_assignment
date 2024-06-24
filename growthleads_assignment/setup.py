@@ -8,7 +8,10 @@ setup(
     install_requires=[
         "sqlalchemy",
         "python-restcountries",
-        "psycopg2"
+        "psycopg2",
+        'dbt-core',
+        'dbt-postgre',
+        'dbt-bigquery'
     ],
     extras_requires={
         'dev': [

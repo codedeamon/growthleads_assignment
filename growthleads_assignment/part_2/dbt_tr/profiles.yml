@@ -9,3 +9,10 @@ dbt_profile:
       port: 5434
       dbname: analytics
       schema: public
+
+    prod:
+      type: bigquery
+      method: service-account
+      project: your-gcp-project-id
+      dataset: your_bigquery_dataset
+      keyfile: /path/to/your/service/account/keyfile.json

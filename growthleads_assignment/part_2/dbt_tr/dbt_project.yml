@@ -30,10 +30,11 @@ clean-targets:         # directories to be removed by `dbt_tr clean`
 # directory as current. These settings can be overridden in the individual model
 # files using the `{{ config(...) }}` macro.
 
-models:
-  raw:
-    +materialized: table
+seeds:
+  dbt_profile:
     +schema: raw
+
+models:
   stg:
     +materialized: table
     +schema: stg

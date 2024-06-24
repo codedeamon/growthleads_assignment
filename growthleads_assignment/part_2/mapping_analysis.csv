@@ -1,0 +1,34 @@
+,,,,,,,,,,
+tps_data,legacy_scraper,sheet_data,marketing_source,,output,,tps_data,legacy_scraper,sheet_data,marketing_source
+accountId,dms_id,Portfolio,marketing_source,,account_id,,accountId,account_id,,
+date,account_id,Date,product,,username,,,username,,
+tracker,username,Week_End,project_xero,,brand,,brand,brand,Brand,
+trackerValue,brand,Month,country,,operator,,,operator_name,Operator,
+trackerId,operator_id,Operator,extra,,date,,date,date,Date,
+brand,operator_name,Brand,operator_mapped,,marketing_source,,tracker,marketing_source,marketing_source,marketing_source
+brandId,currency,marketing_source,promocode,,website,,,,,website
+country,date,NRCs,ppc_website,,country,,country,,,country
+countryCode,marketing_source,NDCs,website,,channel,,,,,acq_channel
+currencyCode,rate,QNDCs,market,,vertical,,,,,product
+visits,clicks,Deposits,acq_channel,,clicks,,visits?,clicks,,
+downloads,nrcs,Net Revenue,portfolio,,downloads,,downloads,,,
+signups,ndcs,Revshare,,,nrc,,,nrc,nrc,
+firstTimeDeposits,qndcs,CPA,,,ndc,,firstTimeDeposits,ndc,ndc,
+cpaCount,deposits,Total Commission,,,qndc,,,qndc,qndc,
+netRevenue,net_revenue,,,,deposits_eur,,deposits+currency?,deposits_eur,,
+chargebacks,revshare,,,,net_revenue_eur,,netRevenue?,net_revenue_eur,,
+chargebackAmount,cpa,,,,revshare_eur,,revShareCommission?,revshare_eur,,
+depositCount,total_commission,,,,cpa_eur,,cpaCommision?,cpa_eur,,
+depositAmount,deposits_eur,,,,total_commission_eur,,calculatedCommission?,total_commission_eur,,
+withdrawalCount,net_revenue_eur,,,,portfolio,,,,portfolio,portfolio
+withdrawalAmount,revshare_eur,,,,project_xero,,,,,project_xero
+earning,cpa_eur,,,,extra,,,,,extra
+cpaCommission,total_commission_eur,,,,ppc_website,,,,,ppc_website
+revShareCommission,,,,,operator_mapped,,,,,operator_mapped
+calculatedCommission,,,,,scraper_id,,,,,
+,,,,,backend_name,,,,,
+,,,,,backend_software_name,,,,,
+,,,,,friendlyname,,,,,
+,,,,,cpa_deal,,,,,
+,,,,,rs_deal,,,,,
+,,,,,tracker1,,,,,

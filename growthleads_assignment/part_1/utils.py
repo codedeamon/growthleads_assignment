@@ -1,11 +1,8 @@
-import os
-
-from sqlalchemy import create_engine, inspect
+from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from typing import List
-from growthleads_assignment.part_1.models import CountryModel
-from growthleads_assignment.settings import *
+from models import CountryModel
+from settings import *
 # Set up logging
 import logging
 logging.basicConfig(level=logging.INFO)
