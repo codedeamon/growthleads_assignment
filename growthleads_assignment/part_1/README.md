@@ -34,4 +34,10 @@ To fetch the API data from REST Countries:
     Run: `python part1.py`
 
 
+## Future Improvements
+
+1. Improve credential configuration: Use secret management tools like Google secrets to store the credentials.
+2. Improve the python script: The use of REST Countries API has space for improvement which will make the script faster.
+
+
 

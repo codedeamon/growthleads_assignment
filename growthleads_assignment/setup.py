@@ -10,7 +10,7 @@ setup(
         "python-restcountries",
         "psycopg2",
         'dbt-core',
-        'dbt-postgre',
+        'dbt-postgres',
         'dbt-bigquery'
     ],
     extras_requires={

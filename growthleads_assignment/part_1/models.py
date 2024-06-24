@@ -18,14 +18,3 @@ class CountryModel(Base):
     currency = Column(String)
 
 
-# Define data classes
-
-# @dataclass
-# class Country_data:
-#     name: str
-#     capital: Optional[str]
-#     region: str
-#     subregion: str
-#     population: int
-#     currency: Optional[str]
-
