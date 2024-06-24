@@ -72,6 +72,11 @@ The DBT executes the below steps and in the respected order:
 ### Column Mapping for concatenation
 In order to concatenate the columns from the 3 tables a mapping analysis was performed. This mapping can be found in `part_2/mapping_analysis.csv`
 
+#### Mapping assumptions
+
+1. The fields from the `sheet_stake_data`: "Net Revenue", "Revshare", "CPA", "Total Commission" are assumed to be in EURO as the currency is not provided.
+2. It is assumed that the `date` column in all csv files have the same format: dd/mm/yyyy
+
 Finally, in order to join the concatenated table with the table: `marketing_source_stg` the common field `marketing_source` was used.
 
 
@@ -84,6 +89,13 @@ In order to choose one or the other:
     `export DBT_TARGET=prod`, to target the BigQuery (production purposes)
 
 Then run `python run_dbt.py`
+
+
+## Future Improvements
+
+1. Implement tests for the dbt models in order to test the type and values of each column.
+2. Enhance Data Type Control in dbt: Create dbt macros to handle data type casting and reuse them across multiple models. This ensures consistency and reduces repetitive code.
+3. Implement CI/CD Pipeline: Use CI/CD tools like GitHub Actions, GitLab CI, or Jenkins to automate dbt runs, tests, and deployments.
 
 
 

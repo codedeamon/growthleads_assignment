@@ -1,5 +1,5 @@
-,,,,,,,,,,
-tps_data,legacy_scraper,sheet_data,marketing_source,,output,,tps_data,legacy_scraper,sheet_data,marketing_source
+,All Fields,,,,routy_scraper_bi,,mapping,,,
+tps_data,legacy_scraper,sheet_data,marketing_source,,output,comments,tps_data,legacy_scraper,sheet_data,marketing_source
 accountId,dms_id,Portfolio,marketing_source,,account_id,,accountId,account_id,,
 date,account_id,Date,product,,username,,,username,,
 tracker,username,Week_End,project_xero,,brand,,brand,brand,Brand,
@@ -7,19 +7,19 @@ trackerValue,brand,Month,country,,operator,,,operator_name,Operator,
 trackerId,operator_id,Operator,extra,,date,,date,date,Date,
 brand,operator_name,Brand,operator_mapped,,marketing_source,,tracker,marketing_source,marketing_source,marketing_source
 brandId,currency,marketing_source,promocode,,website,,,,,website
-country,date,NRCs,ppc_website,,country,,country,,,country
+country,date,NRCs,ppc_website,,country,take either from tps or ms,country,,,country
 countryCode,marketing_source,NDCs,website,,channel,,,,,acq_channel
 currencyCode,rate,QNDCs,market,,vertical,,,,,product
-visits,clicks,Deposits,acq_channel,,clicks,,visits?,clicks,,
+visits,clicks,Deposits,acq_channel,,clicks,,visits,clicks,,
 downloads,nrcs,Net Revenue,portfolio,,downloads,,downloads,,,
-signups,ndcs,Revshare,,,nrc,,,nrc,nrc,
-firstTimeDeposits,qndcs,CPA,,,ndc,,firstTimeDeposits,ndc,ndc,
-cpaCount,deposits,Total Commission,,,qndc,,,qndc,qndc,
-netRevenue,net_revenue,,,,deposits_eur,,deposits+currency?,deposits_eur,,
-chargebacks,revshare,,,,net_revenue_eur,,netRevenue?,net_revenue_eur,,
-chargebackAmount,cpa,,,,revshare_eur,,revShareCommission?,revshare_eur,,
-depositCount,total_commission,,,,cpa_eur,,cpaCommision?,cpa_eur,,
-depositAmount,deposits_eur,,,,total_commission_eur,,calculatedCommission?,total_commission_eur,,
+signups,ndcs,Revshare,,,nrc,Non Recurring Charges,,nrc,nrc,
+firstTimeDeposits,qndcs,CPA,,,ndc,New Depositing Customers,firstTimeDeposits,ndc,ndc,
+cpaCount,deposits,Total Commission,,,qndc,Qualified Non-Direct Conversions,signups,qndc,qndc,
+netRevenue,net_revenue,,,,deposits_eur,deposits+currency NOT assuming all in euro,DepositAmount + currency,deposits_eur,Deposits,
+chargebacks,revshare,,,,net_revenue_eur,use currency field,NetRevenue + currency,net_revenue_eur,Net Revenue,
+chargebackAmount,cpa,,,,revshare_eur,use currency field,revShareCommission + currency,revshare_eur,Revshare,
+depositCount,total_commission,,,,cpa_eur,use currency field,cpaCommision + currency,cpa_eur,CPA,
+depositAmount,deposits_eur,,,,total_commission_eur,use currency field,calculatedCommission + currency,total_commission_eur,Total Commission,
 withdrawalCount,net_revenue_eur,,,,portfolio,,,,portfolio,portfolio
 withdrawalAmount,revshare_eur,,,,project_xero,,,,,project_xero
 earning,cpa_eur,,,,extra,,,,,extra
@@ -28,7 +28,7 @@ revShareCommission,,,,,operator_mapped,,,,,operator_mapped
 calculatedCommission,,,,,scraper_id,,,,,
 ,,,,,backend_name,,,,,
 ,,,,,backend_software_name,,,,,
-,,,,,friendlyname,,,,,
+,,,,,friendlyname,"these are extra fields, not found anywhere",,,,
 ,,,,,cpa_deal,,,,,
 ,,,,,rs_deal,,,,,
 ,,,,,tracker1,,,,,
